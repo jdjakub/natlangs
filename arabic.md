@@ -20,13 +20,13 @@ What do you call an 3arab with a sore throat? Rab ;)
 
 ## Romanisation
 
-Arabic chat alphabet | Full IPA  | Punk IPA (5.6%) | Dotty chat | Normie       | Meaning
-=====================|===========|=================|============|==============|=========
-al-shaari3           | aʃˈʃaːriʕ | aš-šāriʕ        | aš-šāri3   | ash-shAHre   | The street
-axDar                | ˈʔax.dˤar | ʔaḳḍar          | aḳḍar      | AKKH-dahrr   | Green
-mu7aTTah             | muˈħatˤːa | muħaṭṭah        | muḥaṭṭah   | muHAtta      | Station
-6agiir               | sˤaˈʁiːr  | ṣaġīr           | ṣaġīr      | sah-GHEEEEr  | Small
-qur'an               | qurʔan    | qurʔan          | qur'an     | KORAN ಠ_ಠ    | That which is read...?
+| Squiggly | Chat       | Full IPA  | Punk IPA (5.6%) | Dotty chat | Normie       | Meaning |
+|==========|============|===========|=================|============|==============|==========|
+| الشارع   | al-shaari3 | aʃˈʃaːriʕ | aš-šāriʕ        | aš-šāri3   | ash-shAHre   | The street |
+| أخضر     | axDar      | ˈʔax.dˤar | ʔaḳḍar          | aḳḍar      | AKKH-dahrr   | Green |
+| محطة     | mu7aTTah   | muˈħatˤːa | muħaṭṭah        | muḥaṭṭah   | muHAtta      | Station |
+| WTF computer   | 6agiir     | sˤaˈʁiːr  | ṣaġīr           | ṣaġīr      | sah-GHEEEEr  | Small |
+|   ummm       | qur'an     | qurʔan    | qurʔan          | qur'an     | KORAN ಠ_ಠ    | That which is read...? |
 
 I think that covers the major letters.
 
