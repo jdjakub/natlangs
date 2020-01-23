@@ -10,9 +10,10 @@ Arabic
     * Wholesome to undo my lizard brain's associating it with ... *explosions*.
 
 # Phonology
-Throat.
+TLDR: Throat.
 
-What do you call an 3arab with a sore throat? Rab ;)
+Q: What do you call an 3arab with a sore throat?  
+A: Rab ;)
 
 # Orthography
 * Right-to-left (no computer, when I pressed Backspace, I meant---aaarrrrgh)
@@ -97,7 +98,7 @@ Same suffixes as 2nd person except -īn (I said it was a one-off).
 Notice the gendered dual *(y/t)aktubān*, but keep in mind the usual mixed = masculine.
 
 ## Ambiguity warning!
-Yes, you are correct, *taktubu* on its own might mean *you write* or *she writes*. And *taktubna* can mean *you girls write"* or, I guess, *them girls write*. Stick a pronoun in front if that helps you sleep at night.
+Yes, you are correct, *taktubu* on its own might mean *you write* or *she writes*. And *taktubna* can mean *you girls write"* or, *ya3niyy*, *them girls write*. Stick a pronoun in front if that helps you sleep at night.
 
 ## Summary
 a- means ME, na- means WE,  ya- means HE and ta- means YOU ... (or SHE!)
