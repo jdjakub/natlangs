@@ -29,14 +29,18 @@ What do you call an 3arab with a sore throat? Rab ;)
 | ذالك     | dhaalik    | ðaːlik    | ðālik           | ðālik      | THAA-lik     | That |
 | ثقيل     | thaqiil    | θaqiːl    | θaqīl           | θaqīl      | tha-KEEL     | Heavy |
 | مكسور    | maksuur    | maksuːr   | maksūr          | maksūr     | mAksOoOoR    | Broken |
-| قرآن     | qur'aan    | qurˈʔaːn  | qurʔān          | qur'an     | KORAN ಠ_ಠ    | That which is read...? |
+| قرآن     | qur'aan    | qurˈʔaːn  | qurʔān          | qur'ān     | KORAN ಠ_ಠ    | That which is read...? |
 
 I think that covers the major letters.
+
+Gonna use romanisation ("mine") for most of this, cus I haven't set up a decent IME yet.
 
 \* If I omit the asterisk, something weird happens with text rendering :/
 
 # Diglossia & Dialects
-And plenty of them. الحمدلله al7amdulillah... (do they use this sarcastically?)
+And plenty of them. الحمدلله alḥamdulillah... (do they use this sarcastically?)
+
+We seem to be learning Modern Standard Arabic, but without the case markers.
 
 # Grammar
 
@@ -45,8 +49,18 @@ And plenty of them. الحمدلله al7amdulillah... (do they use this sarcasti
 
 # Number
 * They've got a freakin' DUAL
-* "Broken plurals" O_O
-
+* *jam3 taksīr* "Broken plurals", many/few-type plurals, O_O
+    - Favourite pattern is CāCiCah --> CawāCiC
+        + 3āṣimah --> 3awāṣim (capitol/s)
+        + 3ā'ilah --> 3awā'il (family/ies)
+        + mā'idah --> mawā'id (dining table/s)
+        + qā'imah --> qawā'im (list/s)
+    - Second favourite is CvCC ---> CuCūC
+        + qalb --> qulūb (heart/s)
+        + ra's --> ru'ūs (head/s)
+        + 3ayn --> 3uyūn (eye/s) (dual 3aynā)
+        + 3ilm --> 3ulūm (science/s)
+    
 ## Verbs
 OK. Information compression time.
 
@@ -61,7 +75,7 @@ Simple, sounds like the pronoun.
 #### Prefix
 All suspiciously start with the ت *taa'* from the end of an**ta**.
 
-* an**t◼︎◼︎◼︎** **ta**ktub◼︎◼︎◼︎
+* an**t•••** **ta**ktub•••
 
 #### Suffix
 Masculine follows -ān(i), -ūn(a) i.e. same "sound" dual/plural as with nouns.
@@ -86,7 +100,7 @@ Notice the gendered dual *(y/t)aktubān*, but keep in mind the usual mixed = mas
 Yes, you are correct, *taktubu* on its own might mean *you write* or *she writes*. And *taktubna* can mean *you girls write"* or, I guess, *them girls write*. Stick a pronoun in front if that helps you sleep at night.
 
 ## Summary
-a- means ME, na- means WE,  ya- means HE ta- means YOU ... (or SHE!)
+a- means ME, na- means WE,  ya- means HE and ta- means YOU ... (or SHE!)
 
 -ān means TWAIN, -ūn means THE LADS, -na means LADIES and -īn means ... "M'LADY" (\*tips headdress\*)
 
