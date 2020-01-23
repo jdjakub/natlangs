@@ -21,8 +21,8 @@ A: Rab ;)
 
 ## Romanisation
 
-| Squiggly | Arabish    | Full IPA  | Punk IPA (5.6%) | Mine       | Normie     | Meaning |
-|----------|------------|-----------|-----------------|------------|------------|-----------|
+| Squiggly | Arabish    | Full IPA  | Punk IPA (5.6%) | Mine       | Normie       | Meaning |
+|---------:|------------|-----------|:---------------:|:----------:|:------------:|:---------:|
 | الشارع   | al-shaari3 | aʃˈʃaːriʕ | aš-šāriʕ        | aš-šāri3   | ash-shAHre   | The street |
 | أخضر     | axDar      | ˈʔax.dˤar | ʔaḳḍar          | aḳḍar      | AKKH-dahrr   | Green |
 | محطة     | mu7aTTah   | muˈħatˤːa | muħaṭṭah        | muḥaṭṭah   | muHAtta      | Station |
@@ -61,6 +61,28 @@ We seem to be learning Modern Standard Arabic, but without the case markers.
         + ra's --> ru'ūs (head/s)
         + 3ayn --> 3uyūn (eye/s) (dual 3aynā)
         + 3ilm --> 3ulūm (science/s)
+        
+## Pronouns
+Unique *anā / naḥnu* for I/WE. (Colloquially, *naḥnu* --> similar-sounding *aḥna*.)
+
+Prefix ant- for 2nd person, h- for 3rd person.
+
+Singular *anta / anti* YOU (M/F), *huwa* HE, *hiya* SHE.
+
+Suffix -umā for dual, -um / -unna for M / F plural. (As is often the case, mixed = masculine.)
+
+So: *antumā / humā* for YOU BOTH / THEY BOTH, *antum / hum* for Y'ALL / THEY, and ...
+
+*antunna / hunna* for (AHEM) LADIES...?
+
+### Clitic pronouns
+Instead of "my dog", "her dog"---Arabs say "dog-my", "dog-her" using shortened suffix pronouns.
+
+* 1st person is -iyy MY, -unā OUR. Thus *kalbiyy* "my dog", *kalbunā* "our dog".
+* 2nd person is unchanged but with k- instead of ant-. *kalbuki* "Your(F) dog", *kalbukumā* "Your(2) dog".
+* 3rd person is unchanged except for *huwa* --> -uhu, *hiya* --> -uhā. *kalbuhā* "her dog", *kalbuhum* "their dog".
+
+(**anta** m3allem, wa-**aḥna**, min**ka** net3allem---"**u** da boss and **from u** we learn" lol)
     
 ## Verbs
 OK. Information compression time.
@@ -103,7 +125,7 @@ Yes, you are correct, *taktubu* on its own might mean *you write* or *she writes
 ## Summary
 a- means ME, na- means WE,  ya- means HE and ta- means YOU ... (or SHE!)
 
--ān means TWAIN, -ūn means THE LADS, -na means LADIES and -īn means ... "M'LADY" (\*tips headdress\*)
+-ān means TWAIN, -ūn means THE LADS, -na means LADIES and -īn means ... "M'LADY" (\**tips headdress*\*)
 
 And -u can mean YOU, HUMAN ... or SHE.
 
