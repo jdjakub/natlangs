@@ -20,8 +20,8 @@ What do you call an 3arab with a sore throat? Rab ;)
 
 ## Romanisation
 
-| Squiggly | Chat       | Full IPA  | Punk IPA (5.6%) | Dotty chat | Normie       | Meaning |
-|==========|============|===========|=================|============|==============|==========|
+| Squiggly | Chat       | Full IPA  | Punk IPA (5.6%) | Dotty chat | Normie     | Meaning |
+|----------|------------|-----------|-----------------|------------|------------|-----------|
 | الشارع   | al-shaari3 | aʃˈʃaːriʕ | aš-šāriʕ        | aš-šāri3   | ash-shAHre   | The street |
 | أخضر     | axDar      | ˈʔax.dˤar | ʔaḳḍar          | aḳḍar      | AKKH-dahrr   | Green |
 | محطة     | mu7aTTah   | muˈħatˤːa | muħaṭṭah        | muḥaṭṭah   | muHAtta      | Station |
