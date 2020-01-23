@@ -59,9 +59,9 @@ Simple, sounds like the pronoun.
 
 ### 2nd-person (You...)
 #### Prefix
-All suspiciously start with the ت *taa'* fro the end of an**ta**.
+All suspiciously start with the ت *taa'* from the end of an**ta**.
 
-* an**t???** **ta**ktub???
+* an**t◼︎◼︎◼︎** **ta**ktub◼︎◼︎◼︎
 
 #### Suffix
 Masculine follows -ān(i), -ūn(a) i.e. same "sound" dual/plural as with nouns.
@@ -83,19 +83,33 @@ Same suffixes as 2nd person except -īn (I said it was a one-off).
 Notice the gendered dual *(y/t)aktubān*, but keep in mind the usual mixed = masculine.
 
 ## Ambiguity warning!
-Yes, you are correct, *taktubu* on its own might mean *you write* or *she writes*. Stick a pronoun in front if that helps you sleep at night.
+Yes, you are correct, *taktubu* on its own might mean *you write* or *she writes*. And *taktubna* can mean *you girls write"* or, I guess, *them girls write*. Stick a pronoun in front if that helps you sleep at night.
 
 ## Summary
-a- means ME, na- means WE,  ya- means HE. ta- means YOU ... (or SHE!)
+a- means ME, na- means WE,  ya- means HE ta- means YOU ... (or SHE!)
 
 -ān means TWAIN, -ūn means THE LADS, -na means LADIES and -īn means ... "M'LADY" (\*tips headdress\*)
 
 And -u can mean YOU, HUMAN ... or SHE.
 
-## SCARY TABLE
-Not so bad now, is it?
+## Summary table
+Not as scary as some other tables I've seen.
 
-Table TBD
+| Who | Writes |
+| ----|--------|
+| naḥnu / anā | (n)aktubu
+| anta/i | takubu/īn
+| huwa/hiya | (y/t)aktubu
+| antumā | taktubān
+| humā | (y/t)aktubān
+| antum | taktubūn
+| hum | yaktubūn
+| ant/hunna | (t/y)aktubna*
+
+\* NB Our teacher taught us *hunna taktubna* yet Wiktionary says *yaktubna*. He's a native speaker so I'd be surprised if it's wrong---local variation?
+
+
+
 
 
 
