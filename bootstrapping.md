@@ -52,4 +52,35 @@ PROBLEM: Two very distinct paths:
   Russian, etc. Often, the categories / ontology of the grammar were invented by the *native* community, and merely
   *translated* or *calqued* by foreigners. (How else do we get trippy words like "Irrealis", "Aorist",
   "Basic Broken Plural Triptote"...?) This is the approach suggested by "start from VikiSlovar and go from there".
+
+# Russian example
+PROBLEM: I'm coming into this already with Russian knowledge, not from scratch.
+
+Concepts in English: word, letter, sound, syllable, usage, meaning, consonant, vowel, grammatical terminology
+(N/A/G/D/I/P case, noun declension, verb conjugation, tense, voice, mood, gender masc/fem, number sg/plural),
+translation, orthography, pronunciation, sense, language, dialect
+
+Case study: [](https://en.wiktionary.org/wiki/translation)
+
+* Headings "Alternative Forms", "Etymology", "Pronunciation", "Noun", "Derived/Related terms", "Translations"
+* Explains noun as derived from verb: The **act** of **translating**, in its various **senses**
+
+And VikiSlovar: [](https://ru.wiktionary.org/wiki/перевод)
+
+## Морфологические (morphological) и синтаксические (syntax) свойства (self-ness => properties)
+* (имя) существительное < calque *nomen substantivum* i.e noun
+* неодушевлённое = not-having-a-soul? i.e. inanimate
+* мужско́й род = masculine gender (же́нский род feminine, сре́дний род middle i.e. neuter, о́бщий род common)
+* 2-е склоне́ние = 2nd declension; тип (type) of declension 1a in <person>'s classification
+* приста́вка prefix пере-; ко́рень root: -вод-
   
+## Произноше́ние (pronunciation; related impf произнести́ / pf произноси́ть)
+* еди́нственное число́ (singular number); мно́жественное = plural
+
+## Семантические (semantic) свойства (properties)
+### Значе́ние (meaning)
+* (1) де́йствие action, with meaning of the глаго́л (verb) pf переводи́ть / impf перевести́
+* способствование (the assisting) перемещению (with transferring < pf перемести́ть / impf перемеща́ть)
+* преобразова́ние (the re-forming < преобразова́ть) каких-либо объектов (of some kind of objects)
+* из одного́ ме́ста или состояния (from one place or state) в друго́е (to another)
+* (2) результат, продукт (result, product) of such a process: текст на каком-то языке (text in some language)
