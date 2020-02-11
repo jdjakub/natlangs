@@ -45,23 +45,73 @@ We seem to be learning Modern Standard Arabic, but without the case markers.
 
 # Grammar
 
-# Gender
+## Gender
 ت *taa'* has a *strong feminine scent* to it. (See: verbs)
 
-# Number
-* They've got a freakin' DUAL
-* *jam3 taksīr* "Broken plurals", many/few-type plurals, O_O
-    - Favourite pattern is CāCiCah --> CawāCiC
-        + 3āṣimah --> 3awāṣim (capitol/s)
-        + 3ā'ilah --> 3awā'il (family/ies)
-        + mā'idah --> mawā'id (dining table/s)
-        + qā'imah --> qawā'im (list/s)
-    - Second favourite is CvCC ---> CuCūC
-        + qalb --> qulūb (heart/s)
-        + ra's --> ru'ūs (head/s)
-        + 3ayn --> 3uyūn (eye/s) (dual 3aynā)
-        + 3ilm --> 3ulūm (science/s)
-        
+While the masculine (as in several languages, oddly enough...) is characterised by consonant endings (at least in nouns).
+
+## Number
+* There is singular...
+    - mudarris (male teacher)
+    - mudarris**ah** (female teacher)
+* They've got a freakin' DUAL as a suffix that usually sounds like *-ān* for both genders
+    - mudarrisān (two male teachers)
+    - mudarrisatān (two female teachers)
+* Plurals can be "simple" or "sound" plurals, often with agent/people words. Masc *-ūn*, fem *-āt*
+    - mudarrisūn (many teachers)
+    - mudarrisāt (many specifically female teachers)
+    
+However, every language seems to have *some* large set of grammar you have to "just learn" ... and Arabic's answer to that is...
+
+### BROKEN PLURALS (*jam3 taksīr*)
+- Either used for non-humans, or have a "many" rather than "small amount" meaning...?
+- Favourite pattern is CāCiCah --> CawāCiC
+    + 3āṣimah --> 3awāṣim (capitol/s)
+    + 3ā'ilah --> 3awā'il (family/ies)
+    + mā'idah --> mawā'id (dining table/s)
+    + qā'imah --> qawā'im (list/s)
+    + fākihah --> fawākih (fruit/s)
+- Second favourite is CvCC ---> CuCūC
+    + qalb --> qulūb (heart/s)
+    + ra's --> ru'ūs (head/s)
+    + 3ayn --> 3uyūn (eye/s) (dual 3aynā)
+    + 3ilm --> 3ulūm (science/s)
+- Many patterns... CaCaC / CvCC ---> aCCāC
+    + walad ---> awlād (boy/s)
+    + qalam ---> aqlām (pen/s)
+    + ṭabaq ---> aṭbāq (plate/s)
+    + yawm ---> ayyām (day/s)
+    + ḥulm ---> aḥlām (dream/s)
+    + rub3 ---> arbā3 (quarter/s)
+
+### Actual numbers
+In Arabic, even something as child-like as counting forces you to accept the sheer frequency of *3ayn* in the language!
+
+1. wāḥid(ah)
+2. iθn(at)ān (which itself sounds like a dual)
+3. θalāθ(ah)
+4. arba3(ah)
+5. ḳams(ah)
+6. sitt(ah)
+7. sab3(ah)
+8. θamāniyy(ah)
+9. tis3(ah)
+10. 3ašar(ah)
+
+Not only that, but when counting *things* there is really strange pair of gender/place swaps.
+
+In singular and dual, genders match and the number comes second:
+- kalb wāḥid "one dog", tuffaḥ**ah** wāḥid**ah** "one apple"
+- kalbān iθnān "two dogs", tuffaḥ**at**ān iθn**at**ān "two apples"
+
+But---get this---in **plural** (3+), both position **and gender** REVERSE(!)
+- kilāb θalāθ? *WRONG!*
+- θalāθ kilāb? *WRONG!*
+- θalāθ**ah** kilāb "three dogs"
+- θalāθ tuffaḥāt "three apples"
+
+I can sorta understand how the place-switch could evolve, but the gender-switch defies explanation.
+
 ## Pronouns
 Unique *anā / naḥnu* for I/WE. (Colloquially, *naḥnu* --> similar-sounding *aḥna*.)
 
@@ -80,9 +130,14 @@ Instead of "my dog", "her dog"---Arabs say "dog-my", "dog-her" using shortened s
 
 * 1st person is -iyy MY, -unā OUR. Thus *kalbiyy* "my dog", *kalbunā* "our dog".
 * 2nd person is unchanged but with k- instead of ant-. *kalbuki* "Your(F) dog", *kalbukumā* "Your(2) dog".
-* 3rd person is unchanged except for *huwa* --> -uhu, *hiya* --> -uhā. *kalbuhā* "her dog", *kalbuhum* "their dog".
+* 3rd person is unchanged except for *huwa* --> -hu, *hiya* --> -hā. *kalbuhā* "her dog", *kalbuhum* "their dog".
 
 (**anta** m3allem, wa-**aḥna**, min**ka** net3allem---"**u** da boss and **from u** we learn" lol)
+
+Further, these seem to be how you express a direct object in a verb (next section). E.g.
+- uḥibbu**ki** "I love you(F)"
+- yuḥibbu**hā** "he loves her"
+- Insert an n: tuḥibbu**niyy** "You love me"
     
 ## Verbs
 OK. Information compression time.
