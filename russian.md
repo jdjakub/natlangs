@@ -95,3 +95,16 @@ Yep, all about coins. Seems to be a Russian internet meme about a maths crank? (
 > Препод думает: "Слава Богу!Наконец-то!"  
 > Студент, продолжая:  
 > -..целковый, чекушка, порнушка...  
+
+And the rest of the parody sequence seems to be:
+
+0. ноль - zero...
+1. целковый - 1 ruble silver coin...
+2. чекушка - small bottle of vodka
+3. порнушка - pornography
+4. пердушка - fart
+5. засерушка - shit?
+6. жучок - bug (< жук)
+7. мудачок - dickhead (< мудак < муди "scrotum")
+8. хуй на воротничок - cock on collar
+9. дурачок - idiot (< дурак)
