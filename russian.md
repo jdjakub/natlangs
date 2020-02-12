@@ -56,3 +56,42 @@ Speaking Russian always leaves my mouth feeling dry for some reason. Must be why
 ### SLAVIC ASPECT T_T
 
 ### MOTION VERBS T_T
+
+# Who is Yuri Rybnikov?
+A comment under [this Numberphile video](https://www.youtube.com/watch?v=HJ_PP5rqLg0):
+> Ноль, целковый, полушка, четвертушка, осьмушка, пудовичок, медячок, серебрячок, золотничок, осьмичок, девятичок, десятичок
+
+* Ноль: Zero, null
+* целко́вый: "A silver coin worth one ruble" ...
+* полу́шка:
+    - en.wiktionary doesn't know
+    - WikiSlovar: истор. на Руси — серебряная, зате́м ме́дная моне́та досто́инством в че́тверть копе́йки (половину деньги)
+    - Historical? In old Rus' - something silver [relational adj of серебро́], and later copper (rel adj медь) coin worth (from досто́йный) a quarter of a kopek (1/100 ruble).
+    - At this point I suspect they're all coins...
+* четверту́шка: diminutive of "a quarter"
+* осьму́шка: 1/8
+* пудовичо́к: Seems to come from an old unit of weight пуд; makes sense for coin
+* медячок: jeez, not even Wikislovar knows this one. Copper-coin? (медь)
+* серебрячок: silver-coin? (серебро)
+* золотничок: gold-coin? (зо́лото)
+* осьмичок: eight-coin? (as opposed to 1/8...)
+* девятичок: nine-coin...
+* десятичок: ten-coin.
+
+Yep, all about coins. Seems to be a Russian internet meme about a maths crank? (or just a coin collector?) called Yuri Rybnikov. I then found this joke:
+
+> Экзамен по программированию. Препод спрашивает студента:
+> -С чего начинается нумерация массива?
+> -С единицы
+> -Вон, на пересдачу!
+> Заходит другой.
+> -С какой цифры начинается нумерация массива? 
+> -Один
+> -2 балла и на пересдачу!
+> "Может во мне дело, учу их как-то не так?"-засомневался препод-"Ладно, пусть ещё один зайдёт и посмотрим".
+> Заходит третий студент.
+> -С какой цифры начинается нумерация массива? 
+> -Ноль..
+> Препод думает: "Слава Богу!Наконец-то!"
+> Студент, продолжая:
+> -..целковый, чекушка, порнушка...
