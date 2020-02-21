@@ -36,3 +36,37 @@ Ever since I started learning, it's been difficult for me to even parse the soun
 There were other messages, with warnings in other languages. The English one reads as follows, so at least we have a known target:
 
 > Warning: the node you are attempting to access is the property of [company]. Unauthorized access beyond this point is strictly prohibited.
+
+# Dissidia Super Happy 012 Rocket Ship Duodecim Electric Boogaloo Final Fantasy
+Awesome PSP game, and source of my Japanese love. I thank the YouTube channel EOTWPodcast for the Japanese footage I have relied on so much.
+
+Example: [Dissidia [012] Duodecim Playthrough: Final Ch. 8-2](https://www.youtube.com/watch?v=nwMAZSGNXpQ). I'll be doing dialogue.
+
+ライトニング：記憶が強くなってきている。近くまで来ているはずだ　気を抜くなよ  
+ティファ：カイン　何かアドバイスある？  
+カイン：そうだな…　相手のアシストを攻撃する。今さらかもしれんが　覚えておいて損はないはずだ  
+ティファ：相手のアシストを攻撃　ー　そうね！ちょっと頑張ってみる  
+
+Words: [記](http://www.kanjidamage.com/kanji/723-diary-記)[憶](http://www.kanjidamage.com/kanji/159-recollect-憶)
+([memory](https://jisho.org/word/記憶)), [強](http://www.kanjidamage.com/kanji/897-burly-強)い ([strong](https://jisho.org/word/強い)), [近](http://www.kanjidamage.com/kanji/328-near-近)い ([near](https://jisho.org/word/近い)), はず ([expectation](https://jisho.org/word/筈)), [気](http://www.kanjidamage.com/kanji/983-mood-気)を[抜](http://www.kanjidamage.com/kanji/1092-extract-抜)く ([to lose focus](https://jisho.org/word/気を抜く))
+
+…  
+カイン：気を抜くな。敵は近い  
+…  
+ティファ：もう　近いのよね  
+ユーナ：重く　まがまがしい気を感じる  
+ヴァーン：イミテーションのアジトか。どんな形してんだろうな  
+ティファ：何だか　気楽ね  
+ヴァーン：別にそういうわけじゃないけどさ　初めて行くんだ　楽しみだろ？  
+ティファ：ん　ー　そうかもね？（ユーナ：そうかな、ヴァーン：そうだって）そのくらいに思ってれば　少し気が軽くなるよ。ね　ユーナ？  
+ユーナ：そう… かもしれないね。私も楽しみだって思うことにするよ  
+…  
+ラグナ：ああ、イミテーションの数のことかー  
+エクスデス：**(Exdeath laugh) BWAAAAAAH, HWOAAAH, HWOAAH, HWOAAAH! 探し物か？** この先へ進めば二度と戻っては来れんぞ  
+ティファ：ご忠告　どうもありがとう。十分　気をつけるわ  
+エクスデス：(shorter Exdeath laugh) HWOAAAH, HWAAH! 勧めれば　ー　の話だかな  
+ゴルベーザ：おまえたちはここでゆっくり私たちの相手するといい。気付く頃にはすべてが終わっている  
+カイン：**何？NANI??!!??!!**  
+ゴルベーザ：おまえたちも感じていたであろう、この地のイミテーションの少なさを  
+
+et cetera.
