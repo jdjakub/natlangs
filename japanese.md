@@ -73,12 +73,38 @@ Words:
 
 …  
 ティファ：もう　近いのよね  
+(TIFA: Already it seems like we're close, doesn't it?)  
 ユーナ：重く　まがまがしい気を感じる  
+(YUNA: heavily ... I feel an ominous presence...)  
 ヴァーン：イミテーションのアジトか。どんな形してんだろうな  
+(VAAN: The manikins' hideout? I wonder what kind of form it will take.)  
 ティファ：何だか　気楽ね  
+(TIFA: It's somewhat ... relaxed, isn't it.)  
 ヴァーン：別にそういうわけじゃないけどさ　初めて行くんだ　楽しみだろ？  
+(VAAN: That's no excuse(??!) We've gone for the first time ever. Are you looking forward to it? (?!?))  
 ティファ：ん　ー　そうかもね？（ユーナ：そうかな、ヴァーン：そうだって）そのくらいに思ってれば　少し気が軽くなるよ。ね　ユーナ？  
+(TIFA: mm ... you could say that, right? (I think so; yup) If I thought that way, it would lift my spirits a little. Right, Yuna?)  
 ユーナ：そう… かもしれないね。私も楽しみだって思うことにするよ  
+(YUNA: Yes ... maybe. I choose to think I too will enjoy it.)  
+
+Words:
+[重](http://www.kanjidamage.com/kanji/1059-heavy-overlap-重)い ([omo.i, heavy](https://jisho.org/word/重い)),
+禍々しい ([magamaga.shii, ominous](https://jisho.org/word/禍禍しい)),
+[感](http://www.kanjidamage.com/kanji/755-feeling-感)じる ([kan.jiru, to feel](https://jisho.org/word/感じる)),
+アジト [ajito, hideout < агитпу́нкт](https://jisho.org/word/アジト),
+[形](http://www.kanjidamage.com/kanji/1188-form-形) ([kata(chi/ji?), form/body/shape](https://jisho.org/word/形)),
+[何](http://www.kanjidamage.com/kanji/62-what-何)だか ([nan.daka, somewhat](https://jisho.org/word/何だか)),
+気[楽](http://www.kanjidamage.com/kanji/1650-enjoy-楽) ([ki.raku, at ease](https://jisho.org/word/気楽)),
+[別](http://www.kanjidamage.com/kanji/1314-separate-別)に ([betsu ni, not really](https://jisho.org/word/別に)),
+[訳](http://www.kanjidamage.com/kanji/291-reason-translation-訳) ([wake, reason/conclusion](https://jisho.org/word/訳)),
+[初](http://www.kanjidamage.com/kanji/1509-first-time-初)めて ([haji.mete, for the first time](https://jisho.org/word/初めて)),
+楽しみ ([tano.shimi, enjoyment / looking forward to](https://jisho.org/word/楽しみ)),
+そうかもしれない  ([sou kamo shirenai, you could say that...](https://jisho.org/word/そうかもしれない)),
+くらい  ([kurai, just.../approx...](https://jisho.org/word/くらい))
+[思](http://www.kanjidamage.com/kanji/102-think-思)う ([omo.u, to think that...](https://jisho.org/word/思う)),
+[少](http://www.kanjidamage.com/kanji/193-a-little-amount-少)し ([suko.shi, a little (amount)](https://jisho.org/word/少し)),
+[軽](http://www.kanjidamage.com/kanji/1088-lightweight-軽)い ([karu.i, lightweight](https://jisho.org/word/軽い))
+
 …  
 ラグナ：ああ、イミテーションの数のことかー  
 エクスデス：**(Exdeath laugh) BWAAAAAAH, HWOAAAH, HWOAAH, HWOAAAH! 探し物か？** この先へ進めば二度と戻っては来れんぞ  
