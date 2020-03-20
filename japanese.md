@@ -123,9 +123,9 @@ Words:
 ライトニング：なにが起きている？  
 (LIGHTNING: What are you planning?!)  
 ゴルベーザ：イミテーションの大軍本体は　そろそろ目的地に到達する頃だ。（ユーナ：目的地？）（ヴァーン：どこだ？）  
-(GOLBEZ: The manikins' \[large, military\] attack is fast approaching its destination. (YUNA: destination?) (VAAN: Where's that?))
+(GOLBEZ: The manikins' \[large, military\] attack is fast approaching its destination. (YUNA: destination?) (VAAN: Where's that?))  
 カイン：そういうことか。（ヴァーン：どういうこと？）  
-(KAIN: So that's what's going on. (VAAN: What's going on?))
+(KAIN: So that's what's going on. (VAAN: What's going on?))  
 ゴルベーザ：たとえ神であろうと　その数を前にしてなすすべもなかろう。調和の神　コスモスの玉座　イミテーションの狙いはコスモスだ。  
 (GOLBEZ: Even if (she is?) a god - those numbers ??? ??? ??? will not be there. The throne of the goddess of Harmony, Cosmos - the manikins' aim is HER.)  
 ライトニング：なんだと？  
@@ -133,9 +133,9 @@ Words:
 ゴルベーザ：忘れたか？　主を失った戦士は皆　闇に消える。それは復活も望めぬ　完全なる消滅だ。  
 (GOLBEZ: Have you forgotten...? The warriors who lost (lose) their leader, all of them - disappear into the darkness. And that is, for those who cannot hope for resurrection, total annihilation.)  
 カイン：おまえたち！　先に行け！（ユーナ：カイン！）  
-(KAIN: OI YOU LOT! / All of you! Go on!)
+(KAIN: OI YOU LOT! / All of you! Go on!)  
 ヴァーン：コスモスはどうすんだよ  
-(VAAN: How is Cosmos alive (???))
+(VAAN: How is Cosmos alive (???))  
 カイン：どうにもならん。  
 (KAIN: It's futile; we can't do anything.)  
 ヴァーン：**どうにも？！？！** (the way he says this cracks me up)  
@@ -146,10 +146,10 @@ Words:
 (KAIN: There is a limit to (how much I can?) hold off (against?) those two. We don't have time to be sitting around in a place like this. Go and destroy the portal (dimension door)! At this rate, even that might become unfulfilled!)  
 ユーナ：カイン　あなたは  
 (YUNA: Kain -- what about you? --)  
-カイン：心配するな。こいつらを始末して　すぐに後を追う！
-(KAIN: Don't worry (about me)! I'll follow immediately after I deal with these guys!)
+カイン：心配するな。こいつらを始末して　すぐに後を追う！  
+(KAIN: Don't worry (about me)! I'll follow immediately after I deal with these guys!)  
 ライトニング：頼んだ、カイン。みんな行くぞ！  
-(LIGHTNING: We're counting on you, kain. Everyone - let's go!)  
+(LIGHTNING: We're counting on you, Kain. Everyone - let's go!)  
 エクスデス：やけに親切なことだな　ゴルベーザよ  
 (EXDEATH: What a terribly nice thing that is, Golbez.)  
 ゴルベーザ：今さら彼らが何を知ろうと　大してことができるわけでもあるまい  
