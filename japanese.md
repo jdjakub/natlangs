@@ -25,11 +25,11 @@ In the more joyful and innocent Web of the 2000s, there was an awesome Shockwave
 
 Ever since I started learning, it's been difficult for me to even parse the sounds into Japanese that I know. My best attempt is this:
 
-> 警告: 現在アクセス[chu?]の[goingu? go-iku? ???]は、ラキーモンキーメディアの[chuu?]用地がある。[bujuka?]でのアクセスは、禁止されています。
+> 警告: 現在アクセス[chu?]の[goingu? go-iku? ???]は、ラキーモンキーメディアの[chuu?]用地がある。無許可でのアクセスは、禁止されています。
 
-> keikoku: genzai akusesu [chu?] no [go-iku?] wa, rakkī monkī mīdia no [chuu?] yōchi ga aru. [bujuka?] de no akusesu wa, kinshi sarete imasu.
+> keikoku: genzai akusesu [chu?] no [go-iku?] wa, rakkī monkī mīdia no [chuu?] yōchi ga aru. mukyoka de no akusesu wa, kinshi sarete imasu.
 
-> Warning: regarding the current access [go-iku?], there is the site of Lucky Monkey Media. The access of [bujuka?] is prohibited.
+> Warning: regarding the current access [go-iku?], there is the site of Lucky Monkey Media. Unauthorised (de?) access is prohibited.
 
 (Just for the hell of it, when I was a kid I always heard this: "...New York shyaa! Shook, I dunno, access wah; keen Saturday Mass!")
 
