@@ -65,7 +65,7 @@ Words:
 ([ai.te, companion](https://jisho.org/word/相手)),
 [攻](https://www.kanjidamage.com/kanji/713-attack-攻)[撃](https://www.kanjidamage.com/kanji/1300-charge-撃)
 ([kou.geki, military-scale attack](https://jisho.org/word/攻撃)),
-[今](https://www.kanjidamage.com/kanji/943-now-今)[更](w.kanjidamage.com/kanji/1591-all-over-again-更) ([ima.sara, at this point / this late (we can't know?)](https://jisho.org/word/今更)),
+[今](https://www.kanjidamage.com/kanji/943-now-今)[更](https://www.kanjidamage.com/kanji/1591-all-over-again-更) ([ima.sara, at this point / this late (we can't know?)](https://jisho.org/word/今更)),
 [覚](https://www.kanjidamage.com/kanji/1625-bear-in-mind-覚)える ([obo.eru, to memorise](https://jisho.org/word/覚える)),
 [損](https://www.kanjidamage.com/kanji/545-harm-損) ([son, harm / loss (grammar word?)](https://jisho.org/word/損)),
 [頑](https://www.kanjidamage.com/kanji/844-stubborn-頑)[張](https://www.kanjidamage.com/kanji/906-stretch-張)って ([gam.ba.tte, good luck!](https://jisho.org/word/頑張って)),
@@ -111,23 +111,55 @@ Words:
 エクスデス：**(Exdeath laugh) BWAAAAAAH, HWOAAAH, HWOAAH, HWOAAAH! 探し物か？** この先へ進めば二度と戻っては来れんぞ  
 (EXDEATH: DEARCHING FOR DOMETING?? Should you advance any further, you'll just come back a second time/two times?(forgotten grammar))  
 ティファ：ご忠告　どうもありがとう。十分　気をつけるわ  
-(TIFA: Thanks for the warning. Ten minutes - watch out...)  
+(TIFA: Thanks for the warning. Ten minutes - I think we'll be careful.)  
 エクスデス：(shorter Exdeath laugh) HWOAAAH, HWAAH! 進めれば　ー　の話だかな  
 (EXDEATH: all this talk of "If you advance..." ???)  
 ゴルベーザ：おまえたちはここでゆっくり私たちの相手するといい。気付く頃にはすべてが終わっている  
-(GOLBEZ: As for you lot - here - slowly - our comrades - would be good to do???? Everything is ending in the time you notice??)  
+(GOLBEZ: As for you lot - here - slowly - our comrades - would be good to do???? By the time you realise, all will be ending.)  
 カイン：**何？NANI??!!??!!**  
 (KAIN: WHAAAAAAA?)  
 ゴルベーザ：おまえたちも感じていたであろう、この地のイミテーションの少なさを  
 (GOLBEZ: You too must have been feeling, the scarcity of manikins in this place)  
 ライトニング：なにが起きている？  
-(LIGHTNING: What are you planning?!)  
+(LIGHTNING: What's going on?!)  
 ゴルベーザ：イミテーションの大軍本体は　そろそろ目的地に到達する頃だ。（ユーナ：目的地？）（ヴァーン：どこだ？）  
 (GOLBEZ: The manikins' \[large, military\] attack is fast approaching its destination. (YUNA: destination?) (VAAN: Where's that?))  
 カイン：そういうことか。（ヴァーン：どういうこと？）  
-(KAIN: So that's what's going on. (VAAN: What's going on?))  
+(KAIN: Now I see. (VAAN: What is it?))  
 ゴルベーザ：たとえ神であろうと　その数を前にしてなすすべもなかろう。調和の神　コスモスの玉座　イミテーションの狙いはコスモスだ。  
-(GOLBEZ: Even if (she is?) a god - those numbers ??? ??? ??? will not be there. The throne of the goddess of Harmony, Cosmos - the manikins' aim is HER.)  
+(GOLBEZ: Even if (she is?) a god - those numbers ??? ??? ??? will not be there. The throne of the goddess of Harmony, Cosmos - the manikins' aim is HER.)
+
+Words:  
+[数](http://www.kanjidamage.com/kanji/703-integer-to-count-数) ([kazu, number](https://jisho.org/word/数)),
+[探](https://www.kanjidamage.com/kanji/568-look-for-探) ([saga.su, to search for](https://jisho.org/word/探がす)),
+[先](https://www.kanjidamage.com/kanji/810-earlier-the-tip-先) ([saki, the (other) end](https://jisho.org/word/先)),
+[進](https://www.kanjidamage.com/kanji/333-progress-進) ([susu.mu, to advance](https://jisho.org/word/進む)),
+[二](https://www.kanjidamage.com/kanji/2-two-二)[度](https://www.kanjidamage.com/kanji/1144-times-度) ([nido, twice](https://jisho.org/word/二度)),
+[戻](https://www.kanjidamage.com/kanji/510-return-戻)どる ([modo.ru, to return / go back to a place](https://jisho.org/word/戻どる)),
+[忠](https://www.kanjidamage.com/kanji/490-loyalty-忠)[告](https://www.kanjidamage.com/kanji/807-inform-告) ([chuu.koku, warning](https://jisho.org/word/忠告)),
+[十](https://www.kanjidamage.com/kanji/15-ten-十) ([juu, 10](https://jisho.org/word/十)),
+[分](https://www.kanjidamage.com/kanji/169-understand-divide-minute-分) ([fun, minute (of time)](https://jisho.org/word/分)),
+気を[付](https://www.kanjidamage.com/kanji/987-stick-to-付)ける ([ki wo tsu.keru, to be careful (to stick to one's ki)](https://jisho.org/word/気をつける)),
+[話](https://www.kanjidamage.com/kanji/231-conversation-話) ([hanashi, conversation](https://jisho.org/word/話)),
+ゆっくり ([yukkuri, slowly](https://jisho.org/word/ゆっくり)),
+気付く ([ki dzu.ku, to notice / realise](https://jisho.org/word/気付く)),
+[頃](https://www.kanjidamage.com/kanji/845-around-that-time-頃) ([koro, around that time](https://jisho.org/word/頃)),
+[全](https://www.kanjidamage.com/kanji/919-all-全) ([sube.te, entirely / the whole](https://jisho.org/word/全て)),
+(が)[終](https://www.kanjidamage.com/kanji/955-end-終)わる ([(ga) o.waru, to end (intrans.)](https://jisho.org/word/終わる)),
+[地](https://www.kanjidamage.com/kanji/1600-area-地) ([chi, place / ground](https://jisho.org/word/地)),
+少ない ([suku.nai, seldom / few](https://jisho.org/word/少ない)),
+[起](https://www.kanjidamage.com/kanji/721-wake-up-occur-起)きる ([o.kiru, to occur](https://jisho.org/word/起きる)),
+[大](https://www.kanjidamage.com/kanji/397-big-大)[軍](https://www.kanjidamage.com/kanji/1068-army-軍)[本](https://www.kanjidamage.com/kanji/338-book-the-real-本)[体](https://www.kanjidamage.com/kanji/339-body-体) ([tai.gun.hon.tai, military-scale attack](https://jisho.org/search/大軍本体)),
+そろそろ ([sorosoro, steadily / before long](https://jisho.org/word/そろそろ)),
+[目](https://www.kanjidamage.com/kanji/76-eye-目)[的](https://www.kanjidamage.com/kanji/1430-motivation-al-的)地 ([moku.teki.chi, destination](https://jisho.org/word/目的地)),
+[到](https://www.kanjidamage.com/kanji/1254-arrive-到)[達](https://www.kanjidamage.com/kanji/332-pluraldelivery-達) ([tou.tatsu, arrival](https://jisho.org/word/到達)),
+そういうことか ([sou iu koto ka! Now I see!](https://jisho.org/word/そういうことか)),
+[仮](https://www.kanjidamage.com/kanji/743-provisional-仮)[令](https://www.kanjidamage.com/kanji/946-command-令) ([tatoe, even if / although](https://jisho.org/word/仮令)),
+[神](https://www.kanjidamage.com/kanji/1498-god-kanji-神) ([kami, god](https://jisho.org/word/神)),
+[調](https://www.kanjidamage.com/kanji/1636-check-out-調)[和](https://www.kanjidamage.com/kanji/369-peace-japan-和) ([chou.wa, harmony](https://jisho.org/word/調和)),
+[玉](https://www.kanjidamage.com/kanji/452-ball-玉)[座](https://www.kanjidamage.com/kanji/1133-sit-座) ([gyoku.za(i), throne](https://jisho.org/word/玉座)),
+[狙](https://www.kanjidamage.com/kanji/1484-aim-at-狙)い ([nera.i, aim](https://jisho.org/word/狙い))
+
 ライトニング：なんだと？  
 (LIGHTNING: What did you just say?!)  
 ゴルベーザ：忘れたか？　主を失った戦士は皆　闇に消える。それは復活も望めぬ　完全なる消滅だ。  
