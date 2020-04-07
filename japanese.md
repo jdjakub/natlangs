@@ -55,21 +55,21 @@ Example: [Dissidia [012] Duodecim Playthrough: Final Ch. 8-2](https://www.youtub
 (KAIN: Don't lose focus. The enemy is near.)
 
 Words:
-[記](http://www.kanjidamage.com/kanji/723-diary-記)[憶](http://www.kanjidamage.com/kanji/159-recollect-憶)
+[記](https://www.kanjidamage.com/kanji/723-diary-記)[憶](https://www.kanjidamage.com/kanji/159-recollect-憶)
 ([ki.oku, memory](https://jisho.org/word/記憶)),
-[強](http://www.kanjidamage.com/kanji/897-burly-強)い ([tsuyo.i, strong](https://jisho.org/word/強い)),
-[近](http://www.kanjidamage.com/kanji/328-near-近)い ([chika.i, near](https://jisho.org/word/近い)),
+[強](https://www.kanjidamage.com/kanji/897-burly-強)い ([tsuyo.i, strong](https://jisho.org/word/強い)),
+[近](https://www.kanjidamage.com/kanji/328-near-近)い ([chika.i, near](https://jisho.org/word/近い)),
 はず ([expectation](https://jisho.org/word/筈)),
-[気](http://www.kanjidamage.com/kanji/983-mood-気)を[抜](http://www.kanjidamage.com/kanji/1092-extract-抜)く ([ki wo nu.ku, to lose focus](https://jisho.org/word/気を抜く)), 
-[相](http://www.kanjidamage.com/kanji/350-partner-相)[手](http://www.kanjidamage.com/kanji/293-hand-手)
+[気](https://www.kanjidamage.com/kanji/983-mood-気)を[抜](https://www.kanjidamage.com/kanji/1092-extract-抜)く ([ki wo nu.ku, to lose focus](https://jisho.org/word/気を抜く)), 
+[相](https://www.kanjidamage.com/kanji/350-partner-相)[手](https://www.kanjidamage.com/kanji/293-hand-手)
 ([ai.te, companion](https://jisho.org/word/相手)),
-[攻](http://www.kanjidamage.com/kanji/713-attack-攻)[撃](http://www.kanjidamage.com/kanji/1300-charge-撃)
+[攻](https://www.kanjidamage.com/kanji/713-attack-攻)[撃](https://www.kanjidamage.com/kanji/1300-charge-撃)
 ([kou.geki, military-scale attack](https://jisho.org/word/攻撃)),
-[今](http://www.kanjidamage.com/kanji/943-now-今)[更](w.kanjidamage.com/kanji/1591-all-over-again-更) ([ima.sara, at this point / this late (we can't know?)](https://jisho.org/word/今更)),
-[覚](http://www.kanjidamage.com/kanji/1625-bear-in-mind-覚)える ([obo.eru, to memorise](https://jisho.org/word/覚える)),
-[損](http://www.kanjidamage.com/kanji/545-harm-損) ([son, harm / loss (grammar word?)](https://jisho.org/word/損)),
-[頑](http://www.kanjidamage.com/kanji/844-stubborn-頑)[張](http://www.kanjidamage.com/kanji/906-stretch-張)って ([gam.ba.tte, good luck!](https://jisho.org/word/頑張って)),
-[敵](http://www.kanjidamage.com/kanji/715-enemy-敵) ([teki, enemy](https://jisho.org/word/敵-1))
+[今](https://www.kanjidamage.com/kanji/943-now-今)[更](w.kanjidamage.com/kanji/1591-all-over-again-更) ([ima.sara, at this point / this late (we can't know?)](https://jisho.org/word/今更)),
+[覚](https://www.kanjidamage.com/kanji/1625-bear-in-mind-覚)える ([obo.eru, to memorise](https://jisho.org/word/覚える)),
+[損](https://www.kanjidamage.com/kanji/545-harm-損) ([son, harm / loss (grammar word?)](https://jisho.org/word/損)),
+[頑](https://www.kanjidamage.com/kanji/844-stubborn-頑)[張](https://www.kanjidamage.com/kanji/906-stretch-張)って ([gam.ba.tte, good luck!](https://jisho.org/word/頑張って)),
+[敵](https://www.kanjidamage.com/kanji/715-enemy-敵) ([teki, enemy](https://jisho.org/word/敵-1))
 
 …  
 ティファ：もう　近いのよね  
@@ -88,22 +88,22 @@ Words:
 (YUNA: Yes ... maybe. I choose to think I too will enjoy it.)  
 
 Words:
-[重](http://www.kanjidamage.com/kanji/1059-heavy-overlap-重)い ([omo.i, heavy](https://jisho.org/word/重い)),
+[重](https://www.kanjidamage.com/kanji/1059-heavy-overlap-重)い ([omo.i, heavy](https://jisho.org/word/重い)),
 禍々しい ([magamaga.shii, ominous](https://jisho.org/word/禍禍しい)),
-[感](http://www.kanjidamage.com/kanji/755-feeling-感)じる ([kan.jiru, to feel](https://jisho.org/word/感じる)),
+[感](https://www.kanjidamage.com/kanji/755-feeling-感)じる ([kan.jiru, to feel](https://jisho.org/word/感じる)),
 アジト [ajito, hideout < агитпу́нкт](https://jisho.org/word/アジト),
-[形](http://www.kanjidamage.com/kanji/1188-form-形) ([kata(chi/ji?), form/body/shape](https://jisho.org/word/形)),
-[何](http://www.kanjidamage.com/kanji/62-what-何)だか ([nan.daka, somewhat](https://jisho.org/word/何だか)),
-気[楽](http://www.kanjidamage.com/kanji/1650-enjoy-楽) ([ki.raku, at ease](https://jisho.org/word/気楽)),
-[別](http://www.kanjidamage.com/kanji/1314-separate-別)に ([betsu ni, not really](https://jisho.org/word/別に)),
-[訳](http://www.kanjidamage.com/kanji/291-reason-translation-訳) ([wake, reason/conclusion](https://jisho.org/word/訳)),
-[初](http://www.kanjidamage.com/kanji/1509-first-time-初)めて ([haji.mete, for the first time](https://jisho.org/word/初めて)),
+[形](https://www.kanjidamage.com/kanji/1188-form-形) ([kata(chi/ji?), form/body/shape](https://jisho.org/word/形)),
+[何](https://www.kanjidamage.com/kanji/62-what-何)だか ([nan.daka, somewhat](https://jisho.org/word/何だか)),
+気[楽](https://www.kanjidamage.com/kanji/1650-enjoy-楽) ([ki.raku, at ease](https://jisho.org/word/気楽)),
+[別](https://www.kanjidamage.com/kanji/1314-separate-別)に ([betsu ni, not really](https://jisho.org/word/別に)),
+[訳](https://www.kanjidamage.com/kanji/291-reason-translation-訳) ([wake, reason/conclusion](https://jisho.org/word/訳)),
+[初](https://www.kanjidamage.com/kanji/1509-first-time-初)めて ([haji.mete, for the first time](https://jisho.org/word/初めて)),
 楽しみ ([tano.shimi, enjoyment / looking forward to](https://jisho.org/word/楽しみ)),
 そうかもしれない  ([sou kamo shirenai, you could say that...](https://jisho.org/word/そうかもしれない)),
 くらい  ([kurai, just.../approx...](https://jisho.org/word/くらい))
-[思](http://www.kanjidamage.com/kanji/102-think-思)う ([omo.u, to think that...](https://jisho.org/word/思う)),
-[少](http://www.kanjidamage.com/kanji/193-a-little-amount-少)し ([suko.shi, a little (amount)](https://jisho.org/word/少し)),
-[軽](http://www.kanjidamage.com/kanji/1088-lightweight-軽)い ([karu.i, lightweight](https://jisho.org/word/軽い))
+[思](https://www.kanjidamage.com/kanji/102-think-思)う ([omo.u, to think that...](https://jisho.org/word/思う)),
+[少](https://www.kanjidamage.com/kanji/193-a-little-amount-少)し ([suko.shi, a little (amount)](https://jisho.org/word/少し)),
+[軽](https://www.kanjidamage.com/kanji/1088-lightweight-軽)い ([karu.i, lightweight](https://jisho.org/word/軽い))
 
 …  
 ラグナ：ああ、イミテーションの数のことかー  
