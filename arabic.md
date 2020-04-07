@@ -215,8 +215,8 @@ The *t*- sound is feminine, so:
 
 Elsewhere, the dual normally ends in -ān; in the past, looks like the final n has been dropped. So
 
-* humā katabā *"them two (MM/MF) wrote"*
-* humā katabāt *"them two (FF) wrote"*
+* kataba --> humā katabā *"them two (MM/MF) wrote"*
+* katabat --> humā katabatā *"them two (FF) wrote"*
 
 Similarly, the masculine plural, normally -ūn, is now just -ū, but it's written with alif after the waw (lost "tanween"?)
 
