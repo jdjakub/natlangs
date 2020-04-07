@@ -34,7 +34,7 @@ A: Rab ;)
 
 I think that covers the major letters.
 
-Gonna use romanisation ("mine") for most of this, cus I haven't set up a decent IME yet.
+Gonna use romanisation ("mine") for most of this. I have now set up an IME, but the GitHub eidtor doesn't seem to like bidirectional text in some circumstances, e.g.
 
 \* If I omit the asterisk, something weird happens with text rendering :/
 
@@ -139,10 +139,12 @@ Further, these seem to be how you express a direct object in a verb (next sectio
 - yuḥibbu**hā** "he loves her"
 - Insert an n: tuḥibbu**niyy** "You love me"
     
-## Verbs
+# Verbs
 OK. Information compression time.
 
 Example: ك ت ب k-t-b- (to write)
+
+## Present / non-past tense
 
 ### 1st-person (I, we)
 Simple, sounds like the pronoun.
@@ -200,7 +202,38 @@ Not as scary as some other tables I've seen.
 
 \* NB Our teacher taught us *hunna taktubna* yet Wiktionary says *yaktubna*. He's a native speaker so I'd be surprised if it's wrong---local variation?
 
+## Past tense (al-fi3l al-māḍī - try saying that with a ball gag in your mouth)
 
+In the dictionary, the verb *k-t-b-* is listed as *kataba*, usually translated as "to write". However, this actually means "he wrote", and the rest of the past forms are derived from it.
+
+### 3rd Person
+
+The *t*- sound is feminine, so:
+
+* huwa kataba *"he wrote"*
+* hiya kataba**t** *"she wrote"*
+
+Elsewhere, the dual normally ends in -ān; in the past, looks like the final n has been dropped. So
+
+* humā katabā *"them two (MM/MF) wrote"*
+* humā katabāt *"them two (FF) wrote"*
+
+Similarly, the masculine plural, normally -ūn, is now just -ū, but it's written with alif after the waw (lost "tanween"?)
+
+* hum katabū (written كتبوا with alif) *"they (masc/mixed) wrote"*
+* hunna katabna (similar to the present *hunna t/yaktubna)* *"THEM GURRRLZ wrote"*
+
+### 2nd Person
+
+Dead easy - just *kataba* suffixed with the shortened pronoun. *anXXX katabXXX*.
+
+* an**ta** katab**ta**, an**ti** katab**ti**, an**tumā** katab**tumā**
+* an**tum** katab**tum**, an**tunna** katab**tunna**
+
+### 1st Person
+
+* Singular is similar to *anta, anti*, and uses up the remaining vowel *u*. *anā katab**tu***.
+* Plural adds *nā* to the end: *naḥnu katab**nā***. A lengthened version of *hunna katabna*. So if you're gonna drop the pronouns in MSA, I guess it's critical that you make the vowel length clear.
 
 
 
