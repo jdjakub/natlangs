@@ -52,20 +52,20 @@ PROBLEM: Two very distinct paths:
   Russian, etc. Often, the categories / ontology of the grammar were invented by the *native* community, and merely
   *translated* or *calqued* by foreigners. (How else do we get trippy words like "Irrealis", "Aorist",
   "Basic Broken Plural Triptote"...?) This is the approach suggested by "start from VikiSlovar and go from there".
-
-# Russian example
+  
+# Russian example
 PROBLEM: I'm coming into this already with Russian knowledge, not from scratch.
 
 Concepts in English: word, letter, sound, syllable, usage, meaning, consonant, vowel, grammatical terminology
 (N/A/G/D/I/P case, noun declension, verb conjugation, tense, voice, mood, gender masc/fem, number sg/plural),
 translation, orthography, pronunciation, sense, language, dialect
 
-Case study: [](https://en.wiktionary.org/wiki/translation)
+Case study: [https://en.wiktionary.org/wiki/translation](https://en.wiktionary.org/wiki/translation)
 
 * Headings "Alternative Forms", "Etymology", "Pronunciation", "Noun", "Derived/Related terms", "Translations"
 * Explains noun as derived from verb: The **act** of **translating**, in its various **senses**
 
-And VikiSlovar: [](https://ru.wiktionary.org/wiki/перевод)
+And VikiSlovar: [https://ru.wiktionary.org/wiki/перевод](https://ru.wiktionary.org/wiki/перевод)
 
 ## Морфологические (morphological) и синтаксические (syntax) свойства (self-ness => properties)
 * (имя) существительное < calque *nomen substantivum* i.e noun
