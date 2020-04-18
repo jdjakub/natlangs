@@ -1,8 +1,8 @@
 Arabic
 ======
 
-* **HOW**: Taking a beginner's course with Actual People, 2h every week.
-* **HOW LONG**: < 1 year
+* **HOW**: Took a beginner's course with Actual People, 2h every week.
+* **HOW LONG**: 6 months
 * **WHY**:
     * Cool script
     * Cool phonology
