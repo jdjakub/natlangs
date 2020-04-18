@@ -18,6 +18,13 @@ the first few of *Evangelion*, but I never got into them for whatever reason. If
 to series, we can add *Your Name* and *Howl's Moving Castle*, but that's it. They're all great, I
 agree, but --- 知ってらない.
 
+# Resources
+I am indebted to:
+* Tae Kim's extensive [grammar guide](http://www.guidetojapanese.org/), which I used early on
+* The amazing and exhaustive [Imabi](https://www.imabi.net/), which I now prefer to Tae Kim
+* [Kanjidamage](https://www.kanjidamage.com/) for mnemonics, pronunciations, synonyms, lookalikes and usage notes
+* [Jisho](https://jisho.org/) for words and phrases (and kanji not in Kanjidamage)
+
 # LUCKY MONKEY MEDIA ラキーモンキーメディア
 First of all, let's get this chldhood earworm out of the way.
 
