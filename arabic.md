@@ -15,6 +15,13 @@ TLDR: Throat.
 Q: What do you call an 3arab with a sore throat?  
 A: Rab ;)
 
+## An Arabic throat-twister I came up with
+I watch the Arabs, with my own eyes, on the street on a Wednesday in spring!
+
+أعاين العرب مع عيناى على الشارع الأربعاء في الربيع
+
+*u3āyin al-3arab ma3a 3aynāya 3alā aš-šāri3 al-arbi3ā' fī-r-rabī3!*
+
 # Orthography
 * Right-to-left (no computer, when I pressed Backspace, I meant---aaarrrrgh)
 * Squiggly (but جميل jamīl!)
