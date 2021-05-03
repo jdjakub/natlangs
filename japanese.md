@@ -61,7 +61,7 @@ Example: [Dissidia [012] Duodecim Playthrough: Final Ch. 8-2](https://www.youtub
 カイン：気を抜くな。敵は近い  
 (KAIN: Don't lose focus. The enemy is near.)
 
-Words:
+Words: 
 [記](https://www.kanjidamage.com/kanji/723-diary-記)[憶](https://www.kanjidamage.com/kanji/159-recollect-憶)
 ([ki.oku, memory](https://jisho.org/word/記憶)),
 [強](https://www.kanjidamage.com/kanji/897-burly-強)い ([tsuyo.i, strong](https://jisho.org/word/強い)),
@@ -94,7 +94,7 @@ Words:
 ユーナ：そう… かもしれないね。私も楽しみだって思うことにするよ  
 (YUNA: Yes ... maybe. I choose to think I too will enjoy it.)  
 
-Words:
+Words: 
 [重](https://www.kanjidamage.com/kanji/1059-heavy-overlap-重)い ([omo.i, heavy](https://jisho.org/word/重い)),
 禍々しい ([magamaga.shii, ominous](https://jisho.org/word/禍禍しい)),
 [感](https://www.kanjidamage.com/kanji/755-feeling-感)じる ([kan.jiru, to feel](https://jisho.org/word/感じる)),
@@ -136,7 +136,7 @@ Words:
 ゴルベーザ：たとえ神であろうと　その数を前にしてなすすべもなかろう。調和の神　コスモスの玉座　イミテーションの狙いはコスモスだ。  
 (GOLBEZ: Even if (she is?) a god - those numbers ??? ??? ??? will not be there. The throne of the goddess of Harmony, Cosmos - the manikins' aim is HER.)
 
-Words:  
+Words: 
 [数](http://www.kanjidamage.com/kanji/703-integer-to-count-数) ([kazu, number](https://jisho.org/word/数)),
 [探](https://www.kanjidamage.com/kanji/568-look-for-探) ([saga.su, to search for](https://jisho.org/word/探がす)),
 [先](https://www.kanjidamage.com/kanji/810-earlier-the-tip-先) ([saki, the (other) end](https://jisho.org/word/先)),
@@ -195,3 +195,26 @@ Words:
 (GOLBEZ: "It matters little what they know now. They have no way of stopping that which is to come"  
 エクスデス：ほう？Hwuh hwuh hwuh...  
 (EXDEATH: TRUULYY? Hwuh hwuh hwuh...)  
+
+Words: 
+[忘](http://www.kanjidamage.com/kanji/106-forget-忘)れる ([wasu.reru, to forget](https://jisho.org/word/忘れる)),
+[主](http://www.kanjidamage.com/kanji/454-mastermainly-主) ([aruji, leader / head / master](https://jisho.org/word/主-5)), 
+[失](http://www.kanjidamage.com/kanji/1051-miss-out-on-失)う ([ushina.u, to lose](https://jisho.org/word/失う)), 
+[戦](http://www.kanjidamage.com/kanji/672-fight-戦)[士](http://www.kanjidamage.com/kanji/245-samurai-radical-士) ([sen.shi, warrior](https://jisho.org/word/戦士)), 
+[皆](http://www.kanjidamage.com/kanji/32-everyone-皆) ([min(n)a, everyone](https://jisho.org/word/皆)), 
+[闇](http://www.kanjidamage.com/kanji/161-pitch-black-darkness-闇) ([yami, darkness](https://jisho.org/word/闇)), 
+[消](http://www.kanjidamage.com/kanji/601-erase-消)える ([ki.eru, to be erased](https://jisho.org/word/消える)), 
+[復](http://www.kanjidamage.com/kanji/1515-return-or-re-do-復)[活](http://www.kanjidamage.com/kanji/232-vivid-lively-活) ([fuk.katsu, resurrection](https://jisho.org/word/復活)),
+[望](http://www.kanjidamage.com/kanji/449-desire-望)む ([nozo.mu, to desire](https://jisho.org/word/望む)), 
+[完](http://www.kanjidamage.com/kanji/572-complete-完)[全](http://www.kanjidamage.com/kanji/919-all-全) ([kan.zen, complete / total](https://jisho.org/word/完全)), 
+消[滅](http://www.kanjidamage.com/kanji/751-annihilate-滅) ([shou.metsu, annihilation](https://jisho.org/word/消滅)), 
+[住](http://www.kanjidamage.com/kanji/460-dwell-住)む ([su.mu, to live](https://jisho.org/word/住む)), 
+どうにもならない ([dou ni mo naranai, it's hopeless / no use / futile](https://jisho.org/word/どうにもならない)), 
+どうにも ([dou ni mo, in no way / at all](https://jisho.org/word/どうにも)), 
+[間](http://www.kanjidamage.com/kanji/162-a-period-of-time-間)に[合](http://www.kanjidamage.com/kanji/936-to-suit-合)う ([ma ni a.u, to be in time / good enough](https://jisho.org/word/間に合う)), 
+[守](http://www.kanjidamage.com/kanji/991-protect-守)る ([mamo.ru, to protect](https://jisho.org/word/守る)), 
+あいつ ([aitsu, that guy](https://jisho.org/word/彼奴)), 
+[言](http://www.kanjidamage.com/kanji/11-say-言)[葉](http://www.kanjidamage.com/kanji/1030-leaf-葉) ([koto.ba, words](https://jisho.org/word/言葉)), 
+[信](http://www.kanjidamage.com/kanji/63-believe-信)じる ([shin.jiru, to believe](https://jisho.org/word/信じる)), 
+
+
