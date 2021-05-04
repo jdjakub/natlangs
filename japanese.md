@@ -182,10 +182,10 @@ Words:
 ラグナ：今から戻ったって間に合うはずねえ　ー　か。主を守る　ってあいつの言葉を信じるかねえな  
 (LAGUNA: From now, we must be in time to return, right? Right? I think I believe his words about protecting our leader)  
 カイン：あいつひとりで　持ちこたえるにも限界がある　こんな場所でぐずぐずしている暇はない。先へ進み　次元の扉を破壊しろ！　このままでは　それすらも叶わなくなる！  
-(KAIN: There is a limit to (how much I can?) hold off (against?) those two. We don't have time to be sitting around in a place like this. Go and destroy the portal (dimension door)! At this rate, even that might become unfulfilled!)  
+(KAIN: There is a limit to (how much I can?) hold off (against?) those two. We don't have time to be sitting around in a place like this. Go and destroy the portal (dimension door)! At this rate, even that'll become unfulfilled!)  
 ユーナ：カイン　あなたは  
 (YUNA: Kain -- what about you? --)  
-カイン：心配するな。こいつらを始末して　すぐに後を追う！  
+カイン：心配するな。こいつらを始末して　すぐに後を追う！  (atO-O OOU!)
 (KAIN: Don't worry (about me)! I'll follow immediately after I deal with these guys!)  
 ライトニング：頼んだ、カイン。みんな行くぞ！  
 (LIGHTNING: We're counting on you, Kain. Everyone - let's go!)  
@@ -222,3 +222,20 @@ Words:
 [場](http://www.kanjidamage.com/kanji/1208-place-場)[所](http://www.kanjidamage.com/kanji/506-area-attribute-所) ([ba.sho, place](https://jisho.org/word/場所)), 
 ぐずぐず ([guzuguzu, dawdling](https://jisho.org/word/愚図愚図)), 
 [暇](http://www.kanjidamage.com/kanji/1728-free-time-暇)がない ([hima ga nai, no (free) time](https://jisho.org/word/暇がない)), 
+次[元](http://www.kanjidamage.com/kanji/571-original-元) ([ji.gen, dimension](https://jisho.org/word/次元)), 
+扉 ([tobira, door / gate / opening](https://jisho.org/word/扉)), 
+[破](http://www.kanjidamage.com/kanji/1324-rend-破)[壊](http://www.kanjidamage.com/kanji/1681-break-壊) ([ha.kai, destruction](https://jisho.org/word/破壊)), 
+このまま ([kono mama, as it is / at this rate...](https://jisho.org/word/この儘)), 
+それすら  ([sore sura, even that](https://jisho.org/word/それすら)), 
+[叶](http://www.kanjidamage.com/kanji/17-dream-come-true-叶)う ([kana.u, to come true](https://jisho.org/word/叶う)), 
+[心](http://www.kanjidamage.com/kanji/98-heart-心)[配](http://www.kanjidamage.com/kanji/724-distribute-配) ([shim.pai, worry](https://jisho.org/word/心配)), 
+こいつら  ([koitsura, these guys](https://jisho.org/word/此奴ら)), 
+[始](http://www.kanjidamage.com/kanji/141-begin-始)[末](http://www.kanjidamage.com/kanji/380-the-tip-末) ([shi.matsu, deal with / disposal](https://jisho.org/word/始末)), 
+すぐ ([sugu, immediately](https://jisho.org/word/直ぐ)), 
+[後](http://www.kanjidamage.com/kanji/1234-afterwards-behind-後) ([ato, after](https://jisho.org/word/後)), 
+[追](http://www.kanjidamage.com/kanji/1616-follow-追)う ([o.u, to follow](https://jisho.org/word/追う)), 
+[頼](http://www.kanjidamage.com/kanji/1338-ask-a-favour-頼)む ([tano.mu, to rely on](https://jisho.org/word/頼む)), 
+やけに ([yake ni, awfully (...nice, thoughtful, etc)](https://jisho.org/word/やけに)), 
+[親](http://www.kanjidamage.com/kanji/525-parentskindness-親)[切](http://www.kanjidamage.com/kanji/165-cut-important-切) ([shin.setsu, kind](https://jisho.org/word/親切)), 
+[大](http://www.kanjidamage.com/kanji/397-big-大)して ([tai.shite, (not) very](https://jisho.org/word/大して)), 
+まい ([mai, probably doesn't / won't](https://jisho.org/word/まい))
