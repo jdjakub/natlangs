@@ -216,5 +216,9 @@ Words:
 あいつ ([aitsu, that guy](https://jisho.org/word/彼奴)), 
 [言](http://www.kanjidamage.com/kanji/11-say-言)[葉](http://www.kanjidamage.com/kanji/1030-leaf-葉) ([koto.ba, words](https://jisho.org/word/言葉)), 
 [信](http://www.kanjidamage.com/kanji/63-believe-信)じる ([shin.jiru, to believe](https://jisho.org/word/信じる)), 
-
-
+ひとり ([hitori, two people](https://jisho.org/word/ひとり)), 
+[持](http://www.kanjidamage.com/kanji/1003-hold-持)ち[堪](http://www.kanjidamage.com/kanji/1710-tolerate-堪)える ([mo.chi kotaeru, to hold out / hang on](https://jisho.org/word/持ち堪える)), 
+[限](http://www.kanjidamage.com/kanji/783-limit-限)[界](http://www.kanjidamage.com/kanji/935-the-world-界) ([gen.kai, limit](https://jisho.org/word/限界)), 
+[場](http://www.kanjidamage.com/kanji/1208-place-場)[所](http://www.kanjidamage.com/kanji/506-area-attribute-所) ([ba.sho, place](https://jisho.org/word/場所)), 
+ぐずぐず ([guzuguzu, dawdling](https://jisho.org/word/愚図愚図)), 
+[暇](http://www.kanjidamage.com/kanji/1728-free-time-暇)がない ([hima ga nai, no (free) time](https://jisho.org/word/暇がない)), 
