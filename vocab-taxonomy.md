@@ -38,3 +38,18 @@
     - this / last / next ...
   - frequency:
     - often, usually, seldom, rarely
+
+Random adjective pairs:
+- strong/weak
+- Physical properties:
+  - high/low, tall(long)/short, wide/narrow
+  - soft/hard
+  - heavy/light
+  - big/small
+  - hot/cold
+- good/bad
+- old/new
+- pretty/ugly
+- loud/quiet
+- cheap/expensive
+- easy/difficult
