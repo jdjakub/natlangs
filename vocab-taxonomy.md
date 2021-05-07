@@ -53,3 +53,5 @@ Random adjective pairs:
 - loud/quiet
 - cheap/expensive
 - easy/difficult
+- fast/slow
+- near/far
