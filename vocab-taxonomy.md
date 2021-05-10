@@ -55,3 +55,10 @@ Random adjective pairs:
 - easy/difficult
 - fast/slow
 - near/far
+
+Vocab by stage in human history:
+- Foragers
+- Farmers
+- Medievals
+- Industrial Revolution
+- Modern Tech
