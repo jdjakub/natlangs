@@ -44,6 +44,13 @@ There were other messages, with warnings in other languages. The English one rea
 
 > Warning: the node you are attempting to access is the property of [company]. Unauthorized access beyond this point is strictly prohibited.
 
+# Brass Eye: Drugs, "Cannabliss" segment
+([Source](https://www.youtube.com/watch?v=CX02I3uD5t4))
+
+The end, I'm pretty sure, is this:
+
+> カナブリッス：　何でも有効　タバコ、ヘロイン、そしてクラック！
+
 # Dissidia Super Happy 012 Rocket Ship Duodecim Electric Boogaloo Final Fantasy
 Awesome PSP game, and source of my Japanese love. I thank the YouTube channel EOTWPodcast for the Japanese footage I have relied on so much.
 
