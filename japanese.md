@@ -49,7 +49,11 @@ There were other messages, with warnings in other languages. The English one rea
 
 The end, I'm pretty sure, is this:
 
+> 僕はカナブリッス　愛用してます　とうに　ｄｏｇ　パファ
 > カナブリッス：　何でも有効　タバコ、ヘロイン、そしてクラック！
+
+> I've been using Canabliss for a long time [through?] the dog puffer.
+> CANABLISS: Anything is effective - tobacco, heroin, or crack!
 
 # Dissidia Super Happy 012 Rocket Ship Duodecim Electric Boogaloo Final Fantasy
 Awesome PSP game, and source of my Japanese love. I thank the YouTube channel EOTWPodcast for the Japanese footage I have relied on so much.
