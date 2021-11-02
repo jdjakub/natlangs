@@ -45,6 +45,51 @@ Russian phonotactics is a-OK with some consonant clusters (especially initial) t
 
 Speaking Russian always leaves my mouth feeling dry for some reason. Must be why they drink.
 
+### Stress (ударе́ние)
+If a word contains the letter "о", one runs the risk of sounding like a right idiot, because at most one "о" is actually pronounced like that, while all the others are "reduced" to a more neutral schwa or "а" sound. Apparently if you pronounce all the о's then you sound like a Gregorian monk (whose religious texts date from older versions of the language before most о's got reduced.)
+
+For each noun, Wiktionary cites one of ten [stress patterns](https://en.wiktionary.org/wiki/Appendix:Russian_stress_patterns_-_nouns), identified by the linguist Zaliznjak. In a worst-case universe, this could mean memorising ten completely arbitrary 12-entry tables, for each case in singular and plural. Luckily, however, it's much simpler than that. It actually makes more sense to memorise pairs of types, for singular and plural, than just single alphabetic class names. Separately in singular and plural, there can be stress on a fixed syllable of the *stem* -- stem stress S -- or on the *ending* (always the first syllable, so -а́ми never -ами́) -- end stress E. So there are four combinations for singular and plural together: SS, EE, SE, ES. These correspond to Zaliznjak classes a, b, c, d. (a) could be called "stem-stressed", or "all-stem", (b) simply "end-stressed", and "stem-end" / "end-stem" are clearly more helpful than the letters (c) and (d).
+
+Next we have the exceptional classes. They only occur in end stress, and consist of simply going back to stem stress in one case (either Nom, Acc or Ins - no others.) Further, the plural only experiences the Nom exception, and the singular only experiences the Acc / Ins exceptions. The (plural only) Nom exception is pretty common; it covers class (e) with singular stem stress, and (f) with singular end stress. (Technically, the Acc will also copy the Nom in the many cases where they're the same, e.g. inanimate nouns.)
+
+Finally, in the singular now, we have the Acc and Ins exceptions. (d) goes to (d') and (f) goes to (f') by stem-stressing the Acc. (b) goes to (b') *not* via the Acc but by stem-stressing the Ins, and same for (f') to (f'').
+
+Summary table:
+
+|Sg\\Pl | -S | -E | -E(N) |
+|:-----:|:--:|:--:|:--:|
+|  S-   | a  | c  | e  |
+|  E-   | d  | b  | f  |
+| E(A)- | d' |    | f' |
+| E(I)- |    | b' | f''|
+
+Note that 2 combinations simply don't occur. E.g. no singular Ins exception for stem-stressed plurals.
+
+These [Wiktionary numbers](https://en.wiktionary.org/wiki/Category:Russian_nouns_by_accent_pattern) give a good impression of what's normal and what's rare.
+
+|Sg\\Pl | -S | -E | -E(N) |
+|:-----:|:--:|:--:|:--:|
+|  S-   | 21,584 | 604 | 256 |
+|  E-   | 376 | 2024 | 66 |
+| E(A)- | 27 |    | 29 |
+| E(I)- |    | 10 | 14 |
+
+Unfortunately, just because there are only 10 words in class E(A)-S doesn't mean they aren't common or useful. On the bright side, a lot of the entries in the smaller ones are compound phrases made up of the other words, so in actual fact there are fewer "words" to learn than might seem.
+
+So few, in fact, I could list them here. In class (d') a.k.a. E(A)-S, there are 8 roots worth learning: we've got water вода́, soul душа́, earth земля́, winter зима́, river река́, back спина́, wall стена́, and price цена́. Oh, and дрога́, described as "rail or perch in a cart, connecting the front axle to the rear" - yeah, probably give that one a miss. (Also, Wednesday среда́ is included, but as "uneducated" pronunciation, so never mind.)
+
+In class (f') i.e. E(A)-E(N) there's 12: beard/chin борода́, head голова́, mountain гора́, board/plank доска́, leg нога́, stripe полоса́, time пора́, hand рука́, Wednesday среда́, side/direction сторона́, line/row строка́, cheek щека́. (along with "dated/obsolete" pronunciation of вода́ and стена́.)
+
+Those are (all?) the words under the Accusative exception. Notice how they all end in the -а sound. The only difference between them is in the plural, where the (d') are all stem-stressed and the (f') are stem-stressed in the Nom only. So we say (Nsg, Npl, Asg) душа́, душы́, ду́шу and гора́, горы́, го́ру all the same, but ду́шам, ду́шах and гора́м, гора́х.
+
+In class (b') i.e. E(I)-E we have merely 4: louse вошь, lie ложь, rye grass рожь and love любо́вь. In class (f'') i.e. E(I)-E(N) there's chest грудь, and ... well... that's it as far as normal words go. The rest of the entries are either place / river names, things listed with no plural (in which case why classify under (f'') instead of (b')?) or things with an alternate class like (e) listed with no hints as to which is wrong. (f'') almost doesn't really exist.
+
+Anyway, it seems that the Ins exception is *super* limited to a tiny number of occurrences. They all end in -ь in the singular, which is normally end-stressed except for the instrumental which is always of the form -ью. So любви́ but любо́вью "with love" , лжи but ло́жью "with a lie", ... probably the only two worth remembering.
+
+Lastly, I'll have a look at (f), i.e. E-E(N) - total end-stress except in the Npl. ...TBA
+
+Stress for verbs, adjectives etc: TBA...
+
 # Grammar
 
 ## Pronouns
