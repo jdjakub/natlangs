@@ -78,7 +78,7 @@ Unfortunately, just because there are only 10 words in class E(A)-S doesn't mean
 
 So few, in fact, I could list them here. In class (d') a.k.a. E(A)-S, there are 8 roots worth learning: we've got water вода́, soul душа́, earth земля́, winter зима́, river река́, back спина́, wall стена́, and price цена́. Oh, and дрога́, described as "rail or perch in a cart, connecting the front axle to the rear" - yeah, probably give that one a miss. (Also, Wednesday среда́ is included, but as "uneducated" pronunciation, so never mind.)
 
-In class (f') i.e. E(A)-E(N) there's 12: beard/chin борода́, head голова́, mountain гора́, board/plank доска́, leg нога́, stripe полоса́, time пора́, hand рука́, Wednesday среда́, side/direction сторона́, line/row строка́, cheek щека́. (along with "dated/obsolete" pronunciation of вода́ and стена́.)
+In class (f') i.e. E(A)-E(N) there's 10: beard/chin борода́, head голова́, mountain гора́, board/plank доска́, leg нога́, time пора́, hand рука́, Wednesday среда́, side/direction сторона́, cheek щека́. (along with "dated/obsolete" pronunciation of вода́ and стена́, plus alternatives for полоса́ and строка́)
 
 Those are (all?) the words under the Accusative exception. Notice how they all end in the -а sound. The only difference between them is in the plural, where the (d') are all stem-stressed and the (f') are stem-stressed in the Nom only. So we say (Nsg, Npl, Asg) душа́, душы́, ду́шу and гора́, горы́, го́ру all the same, but ду́шам, ду́шах and гора́м, гора́х.
 
@@ -86,7 +86,9 @@ In class (b') i.e. E(I)-E we have merely 4: louse вошь, lie ложь, rye gr
 
 Anyway, it seems that the Ins exception is *super* limited to a tiny number of occurrences. They all end in -ь in the singular, which is normally end-stressed except for the instrumental which is always of the form -ью. So любви́ but любо́вью "with love" , лжи but ло́жью "with a lie", ... probably the only two worth remembering.
 
-Lastly, I'll have a look at (f), i.e. E-E(N) - total end-stress except in the Npl. ...TBA
+For (f), i.e. E-E(N) - total end-stress except in the Npl. We've got 13: wave волна́, nail/peg гвоздь, lip губа́, male horse конь, nostril ноздря́, shoulder плечо́, stripe полоса́, candle свеча́, earring серьга́, frying pan сковорода́, tear слеза́, line/row строка́, worm червь.
+
+For (e), i.e. S-E(N), there are 65: god бог, pain боль, news весть/но́вость, wind ве́тер, thing вещь, authority/rule власть, wolf волк, hair во́лос, thief вор, year год, dove/pigeon го́лубь (c.f. light blue голубо́й), guest/visitor гость, goose гусь (really!), door дверь, money де́ньги, village дере́вня, portion/share до́ля, daughter дочь, fraction дробь, beast зверь, tooth зуб, stone ка́мень, paintbrush кисть, prince/duke князь, claw ко́готь, root ко́рень, bone котсь, blood кровь, swan ле́бедь, elbow ло́коть, horse ло́шадь, mother мать, mouse мышь, finger/toenail но́готь, night ночь, province о́бласть, vegetable о́вощ, axis о́сь, queue о́чередь, boyfriend па́рень, oven печь, square пло́щадь, story по́весть, gender пол/род, port порт, speech речь, role роль, net/grid сеть, sorrow/grief скорбь, speed ско́рость, syllable слог, death смерть, salt соль, degree сте́пень, passion страсть, shadow тень, 1/3 треть, ear у́хо, chain цепь, church це́рковь, part часть, 1/4 че́тверть, demon чёрт, fur/wool шерсть.
 
 Stress for verbs, adjectives etc: TBA...
 
