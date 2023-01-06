@@ -1,3 +1,5 @@
+SEE ALSO: [Semantic Primes](https://en.wikipedia.org/wiki/Semantic_primes)
+
 - space, place, position, direction, motion
   - absolute position:
     - where is _? _ is at (location).  somewhere / nowhere / anywhere / everywhere
@@ -57,8 +59,16 @@ Random adjective pairs:
 - near/far
 
 Vocab by stage in human history:
-- Foragers
-- Farmers
-- Medievals
-- Industrial Revolution
-- Modern Tech
+- Foragers: $$$$$ - basic stuff like body parts, kinship rels, time/space, plants/animals/foods, sun/moon/stars, env
+- Farmers: $$ - on the one hand, common agri products like flour / milk. On the other, think of how many English words I've never heard of turn out to be farming or seafaring-related. Back to the first hand though: a truly staggering number of metaphors and proverbs, at least in English.
+- Medievals $ - not much useful vocab?
+- Industrial Revolution $$$$ - frequent everyday reference to its products and metaphors. Including precise, absolute post-industrial time and space measures ("15:37" versus forager "afternoon")
+- Modern Tech $$$$ - ditto
+
+Based on empirically what happens when someone discovers I speak their language:
+
+- For how long have you known language X? For Y years...
+- When did you start learning language X? About Y years ago...
+- Why do you know language X? I decided to learn it because...
+- How did you learn it? Self-study, internet resources, evening classes...
+- Have you ever been to country X? etc.
