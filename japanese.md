@@ -44,6 +44,12 @@ There were other messages, with warnings in other languages. The English one rea
 
 > Warning: the node you are attempting to access is the property of [company]. Unauthorized access beyond this point is strictly prohibited.
 
+Update: domo arigatou to Yosito Yamasa who commented the actual transcription under my upload:
+
+> 警告！現在アクセス中のポイントはラッキー・モンキー・メディアの私有領域である。無許可でのアクセスは禁止されています
+
+> keikoku: genzai akusesu chū no pointo wa, rakkī monkī mīdia no shiyū ryōiki de aru. mukyoka de no akusesu wa, kinshi sarete imasu.
+
 # Brass Eye: Drugs, "Cannabliss" segment
 ([Source](https://www.youtube.com/watch?v=CX02I3uD5t4))
 
