@@ -37,11 +37,39 @@ Be made to breathe in by the Age of Fingers! That which we send under holds toge
 * to confer: carry together
 
 ## Spires: breathing
+* a spirit: breath (compare Greek *psyche* -> psychology, etc. Kinda onomatopoeic)
 * to conspire: breathe together
 * to transpire: breathe across
 * to inspire: breathe in
 * to expire: breathe out
 * to aspire: breathe towards
+
+## Duces: leading
+* a duke: leader
+* to induce: lead in
+* to introduce: lead inwards
+* to conduct: lead together
+* to abduct: lead away
+* to produce: lead ahead
+* to deduce: lead from
+* to transduce: lead across
+
+## Scribes: writing
+* to inscribe: write in
+* to subscribe: write under
+* to conscript: write together
+* to describe: write from
+* to transcribe: write across
+* to proscribe: write ahead
+* to prescribe: write before
+
+## Traces: pulling
+* to contract: pull together
+* to distract: pull apart
+* to detract: pull from
+* to abstract: pull away
+* to extract: pull out
+* to subtract: pull under
 
 ## Tenes: holding
 * to maintain: hold with the hand
@@ -59,7 +87,7 @@ Be made to breathe in by the Age of Fingers! That which we send under holds toge
 * to compare: arrange together
 
 ## Cides: cutting
-* to decide: to cut apart
+* to decide: to cut down from
 * incision: a cut in
 * to excise: cut out
 * precise: cut before (already cut?)
@@ -81,3 +109,18 @@ Be made to breathe in by the Age of Fingers! That which we send under holds toge
 * calx: chalk
 * calculus: little stone
 * data: that which is given
+
+## Diminutives
+* cubicle: little cube
+* ventricle: little belly (venter)
+* clavicle: little key
+* follicle: little sack
+* ampule: ? 
+* vascular: of little vessels
+* nodule: little knot
+* module: little measure
+* molecule: little mass
+* calculus: little stone (calx)
+* formula: little shape
+* scapula: little ... spade?
+* fistula: little division
