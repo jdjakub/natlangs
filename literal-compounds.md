@@ -18,6 +18,14 @@ Be made to breathe in by the Age of Fingers! That which we send under holds toge
 * to apprehend: grab towards
 * to comprehend: grab together
 
+## Presses: pressing
+* an expression: that which was pressed out
+* an impression: that which was pressed in
+* compression: pressing together
+* suppression: pressing under
+* oppression: pressing against
+* depression: pressing from
+
 ## Plicates: folding
 * complicated / complex: folded together
 * simplex: without folds
