@@ -72,3 +72,18 @@ Based on empirically what happens when someone discovers I speak their language:
 - Why do you know language X? I decided to learn it because...
 - How did you learn it? Self-study, internet resources, evening classes...
 - Have you ever been to country X? etc.
+
+Based on situations you're likely to be in given that you're speaking the language (i.e. travel!), phrases from Lonely Planet language guides:
+
+ - Numbers, essential for both prices and transportation times.
+ - Telling the time
+ - Transport:
+   + Vehicles (planes, trains, buses, cars, taxis, legs)
+   + Stops, tickets, luggage, etc
+ - Thank you / you're welcome
+ - Excuse me (attention) / Sorry (for stepping on your toe)
+ - I (don't) understand
+ - Hold on a sec
+ - Help
+ - How much
+ - Where's the toilet
