@@ -80,7 +80,7 @@ So few, in fact, I could list them here. In class (d') a.k.a. E(A)-S, there are 
 
 In class (f') i.e. E(A)-E(N) there's 10: beard/chin борода́, head голова́, mountain гора́, board/plank доска́, leg нога́, time пора́, hand рука́, Wednesday среда́, side/direction сторона́, cheek щека́. (along with "dated/obsolete" pronunciation of вода́ and стена́, plus alternatives for полоса́ and строка́)
 
-Those are (all?) the words under the Accusative exception. Notice how they all end in the -а sound. The only difference between them is in the plural, where the (d') are all stem-stressed and the (f') are stem-stressed in the Nom only. So we say (Nsg, Npl, Asg) душа́, душы́, ду́шу and гора́, горы́, го́ру all the same, but ду́шам, ду́шах and гора́м, гора́х.
+Those are (all?) the words under the Accusative exception. Notice how they all end in the -а sound. The only difference between them is in the plural, where the (d') are all stem-stressed (a delta from the E/S (d) pattern) and the (f') are stem-stressed in the Nom only (the delta from the end-stress (b) pattern to (f)). So we say (Nsg, Npl, Asg) душа́, ду́ши, ду́шу and гора́, го́ры, го́ру all the same, but ду́шам, ду́шах and гора́м, гора́х.
 
 In class (b') i.e. E(I)-E we have merely 4: louse вошь, lie ложь, rye grass рожь and love любо́вь. In class (f'') i.e. E(I)-E(N) there's chest грудь, and ... well... that's it as far as normal words go. The rest of the entries are either place / river names, things listed with no plural (in which case why classify under (f'') instead of (b')?) or things with an alternate class like (e) listed with no hints as to which is wrong. (f'') almost doesn't really exist.
 
