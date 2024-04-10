@@ -66,7 +66,7 @@ This is what I'm currently trying to grok.
 
 Practice for my Bayesian language learning fever dreams.
 
-Tone mark and syllable type (live/dead) is the most important info for prediction, followed by initial consonant class (high/mid/low). However, tone mark is *immediately* visible to my eyes; if absent, syllable type takes some cognition across the syllable, and consonant classification requires a lookup. Any tone mark means the syllable is live; P(live|tone mark) = 1, so P(tone| live, tone mark) = P(tone | tone mark).
+Tone mark and syllable type (live/dead) is the most important info for prediction, followed by initial consonant class (high/mid/low). However, tone mark is *immediately* visible to my eyes; if absent, syllable type takes some cognition across the syllable, and consonant classification requires a lookup. Any tone mark means the syllable is live; `P(live | tone mark) = 1`, so `P(tone | live, tone mark) = P(tone | tone mark)`.
 
 I see a tone mark:
 
