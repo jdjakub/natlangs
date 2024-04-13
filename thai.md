@@ -13,6 +13,12 @@ TLDR beautiful but not trivially phonetic, full of detritus from past sound chan
 
 [r12n reference](https://r12a.github.io/scripts/thai/th.html)
 
+### Romanisation(s)!!
+
+TLDR there's no clear winner de factor standard across contexts. Several competing de-facto-ish. There's the orthographic transliteration standard ... which preserves the silent / reordered letters etc... might as well just learn the script. There's also the de jure Royal system used on signs in Thailand, but it seems to have made unfortunate concessions to weird English orthographic conventions (ee, oo) and doesn't mark tone or vowel length >:( Wiktionary uses something called [Paiboon](https://en.wiktionary.org/wiki/Wiktionary:Thai_romanization) which I'll use here (as [Paiboon+](https://slice-of-thai.com/pronunciation-guides/#paiboonplus)).
+
+### Consonants
+
 Some logical glyph features conveying reliable info, e.g:
 
 - Aspirated p พ lengthens to f ฟ
@@ -33,9 +39,48 @@ Indic-originating consonants ([source](https://en.wikipedia.org/wiki/Thai_spelli
 - Retroflex d ฎ, t ฏ (spot the difference? t-"breaking"), th ฐ ฑ ฒ, n ณ
 - ...
 
+Basic Consonants are the core set used to express all the sounds in Thai, i.e. what you'd use to write your own name:
+
+- f ฟ p พ bp ป b บ, t ท dt ต d ด, k ค g ก, ch ช j จ
+- n น m ม y ย w ว r ร s ส l ล ng ง h ห
+
+My name: โจ ไจาคุโบวิค joo jaakuboowik
+
+### Glyph 2 Class Algorithm
+
+The 40 *initial* consonants are divided between the Hi/Mid/Lo classes. I regret to inform you that these names are calqued from ancient sources and exactly why they were named this way is considered an open mystery. They're just opaque class names like A/B/C with no simple relationship to the tones. Sad!
+
+10 are High, 8 are Middle, and 22 are Low. So a consonant is most likely to be Low, at just over 50%, followed by High, at 25%, followed by Middle, at 20%.
+
+However, some features immediately predict class:
+
+- Resonants (n m ng w y r l) are all Low (graphically; phonetically, they have High variants, written by prefixing h ห)
+- Sibilants (s, and I'll include h) have High and Low versions but the Lows seem rare.
+- f has a High and a Low version, but I'll class it as an ultra-aspirated p (see next).
+
+All the complexity is concentrated in the remaining 22, stops and affricates (p/t/k/ch and variations - call this Class X):
+
+```
+P(hi  | X) = 5/22 ~< 25%
+P(mid | X) = 8/22 ~> 33%
+P(low | X) = 9/22 ~> 33%
+```
+
+Unaspirated (bp, b, dt, d, g, j) are Mid. If aspirated (p, t, k, ch), it's probably Low (67%), else High (33%).
+
+#### Sanskrit Import Rules
+According to [this](https://omniglot.com/writing/thaisanskrit.htm), the following rules seem to take us from Sanskrit sounds to Thai consonants:
+
+- Everything gets devoiced. Thai adds novel voiced glyphs (to Mid, of course) for b บ d ด rd ฎ (??)
+- All rhotacism disappears, because Thai doesn't have that. rt ฏ rth ฐ rd ฑ rdh ฒ rn ณ rs ษ
+- Any voice in Sanskrit *turns into* aspiration in Thai and goes Low. Hence so many in that category. g ค gh ฆ d ท j ช jh ฌ b พ bh ภ
+- Unvoiced aspirateds in Sanskrit just move High. kh ข th ถ rth ฐ ph ผ chh ฉ
+- As usual, all n's move Low. rn ณ ny ญ
+- All s's move High. rs ษ sh ศ (so where does low s ซ come from?)
+
 ### Keyboard Layout
 
-TLDR Kedmanee is their QWERTY: ergonomically suboptimal but ubiquitous de-facto standard. Pattachote is their DVORAK, designed to be more efficient but supported less.
+TLDR Kedmanee is their QWERTY: ergonomically suboptimal but ubiquitous de-facto standard. Pattachote is their DVORAK, designed to be more efficient but supported less. Basic letters are default, weird/rare/Indic letters via Shift.
 
 [Online keyboard](https://www.branah.com/thai)
 
@@ -43,10 +88,6 @@ Kedmanee memory aids / notables:
 
 - m ม is actually next to the m key, on the right (,)
 - s ส, which looks like l ล, is on the l key (ล is on right-square `]`)
-
-### Romanisation(s)!!
-
-TLDR there's no clear winner de factor standard across contexts. Several competing de-facto-ish. There's the orthographic transliteration standard ... which preserves the silent / reordered letters etc... might as well just learn the script. There's also the de jure Royal system used on signs in Thailand, but it seems to have made unfortunate concessions to weird English orthographic conventions (ee, oo) and doesn't mark tone or vowel length >:( Wiktionary uses something called [Paiboon](https://en.wiktionary.org/wiki/Wiktionary:Thai_romanization) which I'll use here (as [Paiboon+](https://slice-of-thai.com/pronunciation-guides/#paiboonplus)).
 
 ### Glyphs 2 live/dead Algorithm
 
