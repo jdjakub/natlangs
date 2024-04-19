@@ -68,15 +68,15 @@ P(low | X) = 9/22 ~> 33%
 
 Unaspirated (bp, b, dt, d, g, j) are Mid. If aspirated (p, t, k, ch), it's probably Low (67%), else High (33%).
 
-#### Sanskrit Import Rules
-According to [this](https://omniglot.com/writing/thaisanskrit.htm), the following rules seem to take us from Sanskrit sounds to Thai consonants:
+#### Sanskrit/Sukothai Import Rules
+According to [this](https://omniglot.com/writing/thaisanskrit.htm), the following rules seem to take us from Sanskrit/Sukothai sounds to Thai consonants:
 
 - Everything gets devoiced. Thai adds novel voiced glyphs (to Mid, of course) for b บ d ด rd ฎ (??)
-- All rhotacism disappears, because Thai doesn't have that. rt ฏ rth ฐ rd ฑ rdh ฒ rn ณ rs ษ
-- Any voice in Sanskrit *turns into* aspiration in Thai and goes Low. Hence so many in that category. g ค gh ฆ d ท j ช jh ฌ b พ bh ภ
-- Unvoiced aspirateds in Sanskrit just move High. kh ข th ถ rth ฐ ph ผ chh ฉ
+- All Sanskrit rhotacism disappears, because Thai doesn't have that. rt ฏ rth ฐ rd ฑ rdh ฒ rn ณ rs ษ
+- Any voice from Sanskrit or Sukothai *turns into* aspiration in Thai and goes Low. Hence so many in that category. g ค gh ฆ d ท j ช jh ฌ b พ bh ภ
+- Unvoiced aspirateds just move High. kh ข th ถ rth ฐ ph ผ chh ฉ
 - As usual, all n's move Low. rn ณ ny ญ
-- All s's move High. rs ษ sh ศ (so where does low s ซ come from?)
+- All s's move High. rs ษ sh ศ (low s ซ comes from Sukothai z)
 
 ### Keyboard Layout
 
@@ -135,6 +135,10 @@ I don't see a tone mark:
 
 Memory: Two good LIVEs (สอง sɔ̌ɔng, ดี dii), lots of love (รัก rák มาก mâak)
 
-Then I discovered ![this diagram](https://upload.wikimedia.org/wikipedia/commons/f/f9/Thai_tone_rules.png) and it's all I need. For a visual-memory shape rotator like me.
+Then I discovered this diagram on the [Wikipedia page](https://en.wikipedia.org/wiki/Thai_script#Tone):
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Thai_tone_rules.png)
+
+and it's all a visual-memory shape rotator like me needs, so forget the procedure above.
 
 R-exception: I was very confused by the word อร่อย àrɔ̀i "tasty", which under the above rules with ร allegedly low-class, ought to have falling tone. Instead, it has low tone. My conclusion is that ร is normally low-class, but just as ห makes it high-class (หร), อ makes it mid-class (อร) while still remaining as an initial vowel sound. I could only find one other word in the language, อรุณ àrun, that begins with อร, but in the absence of a tone mark its mid tone is consistent with both mid and low class. So perhaps the word อร่อย should just be treated as an exception to what seem like otherwise perfectly regular tone rules. Other words, such as ร่าง râang, ร้าน ráan, and ราม raam are all consistent with ร as low-class.
