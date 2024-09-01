@@ -5,7 +5,7 @@ Thai
 
 * **HOW**: Personal interaction
 * **HOW LONG**: Let's say since Nov 2023
-* **WHY**: Dated a Thai girl, also simple? grammar, beautiful script
+* **WHY**: Dating a Thai girl, also simple? grammar, beautiful script
 
 ## Writing System
 
@@ -139,6 +139,6 @@ Then I discovered this diagram on the [Wikipedia page](https://en.wikipedia.org/
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Thai_tone_rules.png)
 
-and it's all a visual-memory shape rotator like me needs, so forget the procedure above.
+and it's all a visual-memory shape rotator like me needs, so forget the procedure above. See `glyph2tone.md` for full details.
 
 R-exception: I was very confused by the word อร่อย àrɔ̀i "tasty", which under the above rules with ร allegedly low-class, ought to have falling tone. Instead, it has low tone. My conclusion is that ร is normally low-class, but just as ห makes it high-class (หร), อ makes it mid-class (อร) while still remaining as an initial vowel sound. I could only find one other word in the language, อรุณ àrun, that begins with อร, but in the absence of a tone mark its mid tone is consistent with both mid and low class. So perhaps the word อร่อย should just be treated as an exception to what seem like otherwise perfectly regular tone rules. Other words, such as ร่าง râang, ร้าน ráan, and ราม raam are all consistent with ร as low-class.
