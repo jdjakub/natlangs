@@ -84,3 +84,28 @@ And VikiSlovar: [https://ru.wiktionary.org/wiki/перевод](https://ru.wikti
 * преобразова́ние (the re-forming < преобразова́ть) каких-либо объектов (of some kind of objects)
 * из одного́ ме́ста или состояния (from one place or state) в друго́е (to another)
 * (2) результат, продукт (result, product) of such a process: текст на каком-то языке (text in some language)
+* 
+# Czech example
+Useful things to be able to say:
+
+* What is the meaning/pronunciation/translation of this word? What does it mean (in English)? How do you pronounce it? How would you translate it?
+* I don't understand your speech. It's too fast. Can you speak more slowly? It's too quiet. Louder?
+
+* Word: slovo
+* Meaning: význam; to mean: znamenat, impf.
+* Pronunciation: výslovnost; to pronounce: vyslovovat/vyslovit.
+* Translation: překlad; to translate: překládat/přeložit.
+* Speech: řeč; to speak: mluvit
+* To understand: (po)rozumět (+dat.)
+* Fast: rychlý; faster: rychlejší; too fast: příliš rychlý
+* quickly: rychle; more quickly: rychleji
+* Slow: pomalý; slower: pomalejší; too slow: příliš pomalý
+* Slowly: pomalu; more slowly: pomaleji
+* Quiet: tichý; quieter: tišší; too quiet: příliš tichý
+* Quietly: tiše; more quietly: tišeji
+* Loud: hlasitý; louder: hlasitější; too loud: příliš hlasitý
+* Loudly: nahlas; more loudly: hlasitěji
+
+What this word means (in English)? Co toto slovo znamená (v angličtině)?
+
+To it I not understand. You're speaking too quickly. Speak please more slowly. Tomu nerozumím. Mluvíš moc rychle. Mluvte prosím pomaleji.
