@@ -87,3 +87,16 @@ Based on situations you're likely to be in given that you're speaking the langua
  - Help
  - How much
  - Where's the toilet
+ - 
+ Ascending up the hierarchy of survival needs:
+
+- Help!
+- I need a doctor/water/food. I have pain/hunger/thirst
+- My name is ... / My age is ... / I am from X country
+- ...
+
+Beginning from total Cartesian doubt and expanding outwards:
+
+- I think, therefore I am.
+- I think that ... / I believe that ... / I know that ...
+- Sense data: I see/hear/feel/taste/smell stuff
