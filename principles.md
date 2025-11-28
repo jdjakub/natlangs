@@ -46,6 +46,9 @@ If you expect to have native speakers handy, is there really any point learning 
 
 More generally: anything you can learn "from experience" in the local context of use, postpone to the actual context of use. For the initial period of self-study, absorb the machinery you will need in order to gather further information from that environment.
 
+# Exploit Google Translate
+I will almost always have the Google Translate app available from my phone, whether online or with offline translation prepared ahead of time. This frees me up, in many cases, to learn a word precisely when I need it. Ability to read the script is critical if it doesn't yet have good romanisation (e.g. its Thai romanisation is just the [ISO-11940 transliteration](https://en.wikipedia.org/wiki/ISO_11940) hence useless for pronouncing). One challenge is that it's not an oracle the way a native speaker is: frequently it selects word senses that aren't quite what you mean, or translates to words that don't suit the context. This can be mitigated somewhat by quickly thinking of an example sentence and deducing which part of its translation must be the word you want. This also works for closed-class words or grammatical patterns. 
+
 # Escape English-dependence at the earliest opportunity
 I must begin by learning the language in English, with English explanations of grammar and English word translations. It would be nice to wean myself off English as soon as reasonably possible. This means that language bootstrapping-related words, like "word", "translation", "explanation", "am I pronouncing this correctly?", "please speak more slowly" etc. are more urgent than they would be otherwise.
 
